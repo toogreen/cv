@@ -1,0 +1,121 @@
+<!-- DATE DE CREATION: 1/15/99 -->
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+<META NAME="Description" CONTENT="">
+<META NAME="Keywords" CONTENT="">
+<META NAME="Author" CONTENT="Toogreen">
+<META NAME="Generator" CONTENT="WebExpert">
+
+<SCRIPT LANGUAGE="JavaScript">
+ function Redirection(s) {       
+                
+                var d = s.options[s.selectedIndex].value;
+                                        
+                open (d, "ecran");
+                s.selectedIndex=0;
+        }
+</SCRIPT>
+
+</HEAD>
+<BODY link="white" text="white" vlink="white" bgcolor="black">
+
+ 
+<FORM name="">
+  <SELECT NAME="liste1" SIZE=1 onChange="Redirection(this)">
+    <option value="section" selected>[MENU]</option>
+    <option value="accueil.htm">Intro </option>
+    <option value="images/index.html">Index</option>
+    <option value="images/page1.html">Aquarium</option>
+    <option value="images/page2.html">Snowboard</option>
+    <option value="images/page3.html">Renoir</option>
+    <option value="images/page4.html">CD</option>
+    <option value="images/page5.html">Su&egrave;de</option>
+    <option value="images/page6.html">Papeterie</option>
+    <option value="images/page62.html">Calendrier chinois</option>
+    <option value="images/page7.html">Anim 3D Lego</option>
+    <option value="images/3d1.html">Anim 3D 1</option>
+    <option value="images/cartman.html">Anim Flash</option>
+    <option value="images/divers.html">Divers</option>
+  </SELECT></FORM>
+
+<p><font face="Verdana, Arial, Helvetica, sans-serif"> <a href="http://www.chez.com/toogreen/index.html" target="_parent"><font size="1">HomePage</font></a><font size="1"><BR>
+  <a href="http://www.chez.com/bjork/indexfr.htm" target="_parent">Björk Page</a><BR>
+  <a href="http://www.chez.com/toogreen/aphex/movie1.htm" target="ecran">Links(Flash!)</a><BR>
+  <a href="http://www.mp3.com/toogreen" target="_parent">Album Techno</a></font></font></p>
+<p><font face="Arial, Helvetica, sans-serif" color="#999900" size="2"><!-- Aftershock music.swf 3=120 4=120 0=3 43 7=120 8=300 18 22=0 23=0 24=3 29= 30= 31= 38 27 --> 
+  <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=3,0,0,0"
+ ID=music WIDTH=120 HEIGHT=120 ALIGN=top>
+    <PARAM NAME=movie VALUE="music.swf">
+    <PARAM NAME=loop VALUE=false>
+    <PARAM NAME=quality VALUE=high>
+    <PARAM NAME=salign VALUE=LT>
+    <PARAM NAME=bgcolor VALUE=#000000>
+    <SCRIPT LANGUAGE=JavaScript>
+<!--
+var ShockMode = 0;
+if (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"] && navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin) {
+	if (navigator.plugins && navigator.plugins["Shockwave Flash"])
+		ShockMode = 1;
+}
+function checkForShockwave()
+{
+	navigator.plugins.refresh();
+	if ( navigator.plugins["Shockwave Flash"] ){ 
+		parent.location.reload();
+	} else {
+		setTimeout( "checkForShockwave()", 1000 );
+	}
+}
+if (!ShockMode && navigator.appName && navigator.appName.indexOf("Netscape") != - 1 && navigator.appVersion.indexOf("4.") != - 1
+&& navigator.javaEnabled() && netscape.softupdate.Trigger.UpdateEnabled() && document.cookie.indexOf("StartedShockwaveInstall") == -1) {
+	var jarPath = new String("");
+	if (navigator.platform.indexOf("Win32") >= 0 )
+		jarPath = "http://download.macromedia.com/pub/shockwave/jars/english/silentflash32.jar"
+	else if (navigator.platform.indexOf("Win16") >= 0 )
+		jarPath = "http://download.macromedia.com/pub/shockwave/jars/english/silentflash16.jar"
+	else if (navigator.platform.indexOf("MacPPC") >= 0 )
+		jarPath = "http://download.macromedia.com/pub/shockwave/jars/english/silentflashppc.jar"
+	if (jarPath.length) {
+		netscape.softupdate.Trigger.StartSoftwareUpdate (jarPath, netscape.softupdate.Trigger.FORCE_MODE);
+		document.cookie='StartedShockwaveInstall;path=/;'
+		setTimeout("checkForShockwave()", 1000);
+	}
+}
+// check for java
+var JavaOK = 0;
+if (navigator.userAgent && navigator.userAgent.indexOf("Mac") >= 0){
+	if (navigator.appVersion.indexOf("4.") >= 0 && navigator.javaEnabled())
+		JavaOK = 1;
+}
+else if (navigator.appVersion && 
+	((navigator.appVersion.indexOf("4.") >= 0 && navigator.javaEnabled() ) || 
+	(navigator.appVersion.indexOf("3.") >= 0 && ( navigator.userAgent.indexOf("MSIE") >= 0 || navigator.javaEnabled() ))))
+	JavaOK = 1;
+if ( ShockMode ) {
+	document.write('<EMBED SRC="music.swf"');
+	document.write(' swLiveConnect=FALSE WIDTH=120 HEIGHT=120 ALIGN=top');
+	document.write(' LOOP=false QUALITY=high SALIGN=LT BGCOLOR=#000000');
+	document.write(' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">');
+	document.write('</EMBED>');
+} else if ( JavaOK ) {
+	document.write('<APPLET CODE=Flash.class WIDTH=120 HEIGHT=120 ALIGN=top>');
+	document.write('  <PARAM NAME=movie VALUE="music.swf"> ');
+	document.write('  <PARAM NAME=loop VALUE=false> ');
+	document.write('  <PARAM NAME=quality VALUE=high> ');
+	document.write('  <PARAM NAME=salign VALUE=LT> ');
+	document.write('</APPLET>');
+} else if (!(navigator.appName && navigator.appName.indexOf("Netscape")>=0 && navigator.appVersion.indexOf("2.")>=0)){
+	document.write('<IMG SRC="music.gif" WIDTH=120 ALIGN=top HEIGHT=300 BORDER=0>');
+}
+//-->
+</SCRIPT><NOEMBED>
+    <IMG SRC="music.gif" WIDTH=120 ALIGN=top HEIGHT=300 BORDER=0></NOEMBED><NOSCRIPT><IMG SRC="music.gif" WIDTH=120 ALIGN=top HEIGHT=300 BORDER=0></NOSCRIPT>
+  </OBJECT><!-- EndAftershock music.swf --></font></p>
+<br>
+<font size="1" color="#CCCC00" face="Arial, Helvetica, sans-serif">&copy; David 
+Gagnon</font><font color="#CCCC00" face="Arial, Helvetica, sans-serif"><br>
+<font size="1">1995-1999</font></font><font color="#CCCC00" face="Arial, Helvetica, sans-serif"><font size="1"><br>
+</font></font><font color="#CCCC00" size="1" face="Arial, Helvetica, sans-serif"><a href="mailto:toogreen@usa.net">toogreen@usa.net</a></font>
+</BODY></HTML>
