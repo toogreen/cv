@@ -1,0 +1,17 @@
+@media (min-width: 768px) {
+  .grid {
+  	text-align: center;
+	width: 100%;
+	margin: auto;
+	margin-top: 40px;
+    display: grid;
+    grid-template-columns: 40% 1fr 40%;
+	grid-gap:  20px;
+  }
+}
+
+
+h1, p {
+	font-family: 'Merriweather', serif;
+}
+
