@@ -5,13 +5,60 @@
 	margin: auto;
 	margin-top: 40px;
     display: grid;
-    grid-template-columns: 40% 1fr 40%;
+    grid-template-columns: 1fr 1fr;
 	grid-gap:  20px;
   }
+
+	#top-left{
+		text-align: left;
+	}
+
+	#top-right{
+		text-align: right;
+	}
+
 }
 
 
-h1, p {
+h1, h2, h3, h4, p, ul, li {
 	font-family: 'Merriweather', serif;
 }
 
+.header{
+	text-align: center;
+}
+
+.container{
+	width: 90%;
+	text-align: center;
+	margin: auto;
+	border-top: solid 1px black;
+}
+
+.section{
+	text-align: left;
+}
+
+.section h3{
+	color: rgb(255, 180, 20);
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-bottom: -10px;
+}
+
+.subsection{
+	background-color: rgba(240,240,240,0.4);
+	padding: 10px;
+	margin: 10px;
+	border: solid 1px grey;
+}
+
+
+.left-column, .middle-column, .right-column{
+	text-align: left;
+}
+
+
+.footer{
+	text-align: center;
+}
