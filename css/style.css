@@ -15,7 +15,13 @@ h1, h2, h3, h4, p, ul, li {
 
 body{
 	margin: 0;
+	font-size: 15px;
 }
+
+h3{
+	margin-top: 50px;
+}
+
 
 
 .header{
@@ -45,24 +51,52 @@ body{
 
 
 .section{
+	margin-top: 80px;
 	text-align: left;
 }
 
-.section h3{
+#experience h3, {
 	color: rgb(1, 54, 15);
 	margin-top: 20px;
 	margin-left: 10px;
-	margin-bottom: -45px;
+	margin-bottom: -5px;
 	/*text-shadow:2px 1px 1px rgba(0,0,0,0.4); */
 }
 
 .subsection{
+	margin-top: 60px;
 	background-color: rgba(240,240,240,0.8);
 	margin-bottom: 10px;
 	box-shadow:5px 5px 5px rgba(0,0,0,0.2); 
 	border: 1px solid rgba(220,220,220,1);
 	padding: 15px;
 	border-radius: 8px;
+}
+
+#skills .subsection{
+	border: 0;
+	margin: 0;
+	box-shadow: none;
+	border-top: solid 1px black;
+	padding: 0px 10px;
+}
+
+#portfolio .subsection{
+	background-color: white;
+}
+
+#portfolio img{
+	max-width: 25%;
+	max-height: 200px;
+	margin-right: 40px;
+}
+
+#projects img{
+	max-width: 100%;
+}
+
+#projects h3{
+	margin: 0;
 }
 
 
@@ -78,6 +112,26 @@ body{
 
 @media (min-width: 768px) {
   .grid {
+  	text-align: center;
+	width: 100%;
+	margin: auto;
+	margin-top: 40px;
+    display: grid;
+    grid-template-columns: 30% 1fr;
+	grid-gap:  20px;
+  }
+
+  .grid2{
+  	text-align: center;
+	width: 100%;
+	margin: auto;
+	margin-top: 40px;
+    display: grid;
+    grid-template-columns: 1fr 30%;
+	grid-gap:  20px;
+  }
+
+  .grid3{
   	text-align: center;
 	width: 100%;
 	margin: auto;
@@ -103,6 +157,12 @@ body{
 		grid-gap: 4px;
 	}
 
+	#experience h3{
+		color: rgb(1, 54, 15);
+		margin-top: 20px;
+		margin-left: 10px;
+		margin-bottom: -45px;
+	}
 
 }
 
