@@ -49,17 +49,20 @@ body{
 }
 
 .section h3{
-	color: rgb(255, 180, 20);
+	color: rgb(1, 54, 15);
 	margin-top: 20px;
 	margin-left: 10px;
-	margin-bottom: -10px;
+	margin-bottom: -45px;
+	/*text-shadow:2px 1px 1px rgba(0,0,0,0.4); */
 }
 
 .subsection{
-	background-color: rgba(240,240,240,0.4);
-	padding: 10px;
-	margin: 10px;
-	border: solid 1px grey;
+	background-color: rgba(240,240,240,0.8);
+	margin-bottom: 10px;
+	box-shadow:5px 5px 5px rgba(0,0,0,0.2); 
+	border: 1px solid rgba(220,220,220,1);
+	padding: 15px;
+	border-radius: 8px;
 }
 
 
