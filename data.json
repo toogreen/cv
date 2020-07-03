@@ -1,15 +1,5 @@
 {"experience":[
-  { "Company":"McCarthy Tétrault", "Year":"September 2014 to June 2020", "Desc":"<p>Webmaster, coordinator and CSS/jQuery/HTML5 Developer. My responsibilities included:</p>
-
-					<ul>
-						<li>Maintaining the firm’s corporate and recruitment websites (production and design)</li>
-						<li>Primary contact and project manager for internal website requests</li>
-						<li>Primary contact with IT department for all web-related projects and liaising with vendors as required</li>
-						<li>Support for design and layout of electronic external (clients) and internal communications</li>
-						<li>Management of the firm-wide electronic event invitations process</li>
-						<li>Providing website metrics</li>
-						<li>Active participation in social media/online/technology related products</li>
-                                        </ul>" },
-  { "firstName":"Anna", "lastName":"Smith" },
-  { "firstName":"Peter", "lastName":"Jones" }
+  { "Company":"McCarthy Tétrault", "Year":"September 2014 to June 2020", "Desc":"<p>Webmaster" },
+  { "Company":"Anna", "Year":"Smith", "Desc":"test" },
+  { "Company":"Peter", "Year":"Jones", "Desc":"test"  }
 ]}
