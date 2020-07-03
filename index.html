@@ -28,6 +28,8 @@
 		<p>
 			For a simpler, shorter & printable (PDF) version of this CV,<br> please click here: <a href="Resume-DavidGagnon-English.pdf" target="_blank">https://toogreen.ca/cv/Resume-DavidGagnon-English.pdf</a>
 		</p>
+
+		<div class="test"></div>
 		
 	</div>
 
@@ -532,6 +534,8 @@
 	</div>
 
 
+
+
 	<div class="footer">
 		<div class="container">
 			<p>&copy; David Gagnon 2020</p>	
@@ -542,8 +546,24 @@
 <!-- <script type="text/javascript">
     $.getJSON("data.json", function(data) {
         console.log(data);
-        $('body').append(data.experience[0].Year);
+        $('.test').append(data.experience[0].Year);
     });
+
+var json = (function() {
+    var json = null;
+    $.ajax({
+        'async': false,
+        'global': false,
+        'url': "localhost/cv/data.json";,
+        'dataType': "json",
+        'success': function(data) {
+            var parsed_result = JSON.parse(data);  //parsing here
+            return parsed_result; //return when data is parsed successfully
+        }
+    });
+})();
+console.log(json);
+
 </script> -->
 
 </body>
