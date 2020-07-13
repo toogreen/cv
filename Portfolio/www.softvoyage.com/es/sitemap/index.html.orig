@@ -1,0 +1,1106 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="es-ES">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="es-ES">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="es-ES">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="es-ES">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<!-- <meta name="viewport" content="width=device-width" /> -->
+
+
+
+
+<title>Mapa del sitio | Softvoyage</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.softvoyage.com/wp-content/themes/softvoyage/style.css" />
+<link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic|Droid+Sans' rel='stylesheet' type='text/css' />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link rel="pingback" href="http://www.softvoyage.com/es/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.softvoyage.com/wp-content/themes/softvoyage/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="Softvoyage &raquo; Mapa del sitio RSS de los comentarios" href="http://www.softvoyage.com/es/sitemap/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.softvoyage.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.softvoyage.com/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.softvoyage.com/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.softvoyage.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.softvoyage.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Contáctenos' href='http://www.softvoyage.com/es/solutions/agences-aux-fournisseurs/pour-nous-joindre/' />
+<link rel='next' title='Nuestro equipo / James Barnard' href='http://www.softvoyage.com/es/a-propos/lequipe/james-barnard/' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='canonical' href='http://www.softvoyage.com/es/sitemap/' />
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-1252214-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+<meta http-equiv="Content-Language" content="es-ES" />
+<style type="text/css" media="screen">
+.qtrans_flag span { display:none }
+.qtrans_flag { height:12px; width:18px; display:block }
+.qtrans_flag_and_text { padding-left:20px }
+.qtrans_flag_fr { background:url(http://www.softvoyage.com/wp-content/plugins/qtranslate/flags/fr.png) no-repeat }
+.qtrans_flag_en { background:url(http://www.softvoyage.com/wp-content/plugins/qtranslate/flags/gb.png) no-repeat }
+.qtrans_flag_es { background:url(http://www.softvoyage.com/wp-content/plugins/qtranslate/flags/es.png) no-repeat }
+</style>
+<link hreflang="fr" href="http://www.softvoyage.com/fr/sitemap/" rel="alternate" />
+<link hreflang="en" href="http://www.softvoyage.com/sitemap/" rel="alternate" />
+
+<script type="text/javascript" src="http://www.softvoyage.com/wp-content/themes/softvoyage/js/jquery-1.4.3.min.js"></script>
+
+<!-- AJOUTÉ PAR DAVID POUR YOUTUBE API -->
+<script type="text/javascript" src="http://www.youtube.com/player_api"></script>
+
+<!-- AJOUTÉ PAR DAVID POUR MENUS ACCORDEONS DANS PAGE ÉQUIPE -->
+<!--script type="text/javascript" src="http://www.softvoyage.com/wp-content/themes/softvoyage/js/jquery-ui-1.8.13.custom.min.js"></script>
+<script type="text/javascript" src="http://www.softvoyage.com/wp-content/themes/softvoyage/js/jquery.multi-accordion-1.5.3.js"></script -->
+
+</head>
+
+<body class="page page-id-763 page-template page-template-sitemap-php two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+<div class="header">
+<div class="container">
+    <a href="/es"><img src="http://www.softvoyage.com/wp-content/themes/softvoyage/images/logo.png" alt="" class="logo" /></a>
+    <div class="header_R">
+
+        
+            <ul class="qtrans_language_chooser" id="qtranslate-chooser"><li class="lang-fr"><a href="http://www.softvoyage.com/fr/sitemap/" hreflang="fr" title="Français"><span>Français</span></a></li><li class="lang-en"><a href="http://www.softvoyage.com/sitemap/" hreflang="en" title="English"><span>English</span></a></li><li class="lang-es active"><a href="http://www.softvoyage.com/es/sitemap/" hreflang="es" title="Español"><span>Español</span></a></li></ul><div class="qtrans_widget_end"></div>            <ul><li class="no_bg"><a href="/es/sitemap/">Mapa del Sitio</a></li></ul>
+
+
+<!-- LE VIEUX SEARCH ENGINE EST ICI MAIS CACHÉ -->           
+<!--         <form action="">
+            <input type="submit" value="OK" class="ok" />
+            <input type="text" value="Búsqueda en el sitio" onclick="this.value='';" onblur="this.value=!this.value?'Búsqueda en el sitio':this.value;" />
+        </form> -->
+
+	<form method="get" id="searchform" action="http://www.softvoyage.com/">
+		<!-- <label for="s" class="assistive-text">Search</label> -->
+		<input type="text" class="field" name="s" id="s" placeholder="Recherche">
+		<!-- <input type="submit" class="ok" name="submit" id="searchsubmit" value="Search" /> -->
+	</form>
+
+    </div>
+    <div class="navigation">
+        			<nav id="access" role="navigation">
+				<div class="menu-default-container"><ul id="menu-default" class="menu"><li id="menu-item-39" onmouseover="showSousMenu('b-accueil')" onmouseout="showSousMenu()" class="b-accueil menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="http://www.softvoyage.com/es/">Inicio</a></li>
+<li id="menu-item-36" onmouseover="showSousMenu('b-solutions')" onmouseout="showSousMenu()" class="b-solutions menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.softvoyage.com/es/solutions/">Soluciones</a></li>
+<li id="menu-item-35" onmouseover="showSousMenu('b-technologie')" onmouseout="showSousMenu()" class="b-technologie menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://www.softvoyage.com/es/technologie/">Tecnología</a></li>
+<li id="menu-item-34" onmouseover="showSousMenu('b-clients-existants')" onmouseout="showSousMenu()" class="b-clients-existants menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.softvoyage.com/es/clients-existants/">Clientes</a></li>
+<li id="menu-item-1884" onmouseover="showSousMenu('b-a-propos')" onmouseout="showSousMenu()" class="b-a-propos menu-item menu-item-type-post_type menu-item-object-page menu-item-1884"><a href="http://www.softvoyage.com/es/a-propos/apercu/">Acerca de</a></li>
+<li id="menu-item-32" onmouseover="showSousMenu('b-contact')" onmouseout="showSousMenu()" class="b-contact menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://www.softvoyage.com/es/contact/">Contacto</a></li>
+</ul></div>			</nav><!-- #access -->
+        <div id="topnav" class="topnav">
+        	<a href="#" class="support signin"><img src="http://www.softvoyage.com/wp-content/themes/softvoyage/images/support.png" alt="" /></a>
+        </div> 
+        <fieldset id="signin_menu">
+        	<h1>Crear una Eventum de apoyo</h1>
+            <form name="login_form" id="login_form" action="https://eventum.softvoyage.com/login.php" method="post" target="_blank">
+              <p>  
+              <label for="username">Email :</label>
+              <input id="username" name="email" value="" title="username" tabindex="4" type="text">
+              <div id="no-username" style="display: none; color: red;">Por favor, introduzca un nombre de usuario</div>
+              <div id="no-email" style="display:none; color: red;">Nombre de usuario debe ser una dirección de correo electrónico completa</div>
+              </p>
+              <p>
+                <label for="password">Contraseña :                 <a href="https://eventum.softvoyage.com/forgot_password.php" target="_blank"><span>¿Olvidaste tu contraseña?</span></a></label>
+                <input id="password" name="passwd" value="" title="password" tabindex="5" type="password" />
+                <div id="no-password" style="display: none; color: red;">Por favor, introduzca su contraseña</div>
+                <div id="no-nothing" style="display: none; color: red;">Por favor, introduzca un nombre de usuario y una contraseña válidos</div>
+              </p>
+              <p class="remember">
+                <input id="remember_login" name="remember_login" value="1" tabindex="7" type="checkbox" class="checkbox" href="#" onclick="javascript:saveCookies();"/>
+                <label for="remember_login" accesskey="r">Recordarme </label>
+                <input id="signin_submit" value="Entrar" tabindex="6" type="submit" class="submit" />
+              </p>
+            </form>
+            <p class="forgot"> <a href="http://softvoyage.com/tts" target="_blank">TTS Documentación en línea</a> </p>
+        </fieldset>
+
+
+
+        <!-- Scripts ajoutés par David pour remember cookies -->
+
+        <script type="text/javascript">
+
+
+            function setCookie(cname,cvalue,exdays)
+            {
+            var d = new Date();
+            d.setTime(d.getTime()+(exdays*24*60*60*1000));
+            var expires = "expires="+d.toGMTString();
+            document.cookie = cname + "=" + cvalue + "; " + expires;
+            }
+
+            function getCookie(cname)
+            {
+            var name = cname + "=";
+            var ca = document.cookie.split(';');
+
+            for(var i=0; i<ca.length; i++) 
+              {
+              var c = ca[i].replace(/^\s+|\s+$/g, '');
+              if (c.indexOf(name)==0) return c.substring(name.length,c.length);
+              }
+            return "";
+            }
+
+            function checkCookie() {
+
+                // D'abord on ramasse les variables dans les cookies
+                var username=getCookie("username");
+                var password=getCookie("password");
+
+                // On change les champs du formulaire pour ces variables
+                $("#username").val(username);
+                $("#password").val(password);            
+            }
+
+
+            $(document).ready(function() {
+
+                checkCookie();      
+   
+        
+            $(".signin").click(function(e) {          
+                e.preventDefault();
+                $("fieldset#signin_menu").toggle();
+                $(".signin").toggleClass("menu-open");
+                
+                // Ajouté ceci pour cacher messages erreur au départ
+                $('#no-username').hide();
+                $('#no-password').hide();
+                $('#no-nothing').hide();
+                $('#no-email').hide();
+            });
+            
+            $("fieldset#signin_menu").mouseup(function() {
+                return false
+            });
+
+            $(document).mouseup(function(e) {
+                if($(e.target).parent("a.signin").length==0) {
+                    $(".signin").removeClass("menu-open");
+                    $("fieldset#signin_menu").hide();
+                }
+            });	
+            
+            // Script pour valider username et password pour Eventum
+            $('#login_form').submit(function() {
+
+                // Ajouté ceci pour cacher messages erreur au départ
+                $('#no-username').hide();
+                $('#no-password').hide();
+                $('#no-nothing').hide();
+                $('#no-email').hide();
+
+                username = $('#username').val();
+                password = $('#password').val();            
+
+                errmessage = '';
+                if(username == '') { 
+                    //errmessage = 'Veuillez entrer un nom utilisateur'; 
+                    errmessage = "#no-username";
+                }
+                if(password == '') { 
+                    //errmessage = 'Veuillez entrer un mot de passe'; 
+                    errmessage = "#no-password";
+                }
+                if(username == '' && password == '') { 
+                    //errmessage = 'Veuillez entrer un nom utilisateur et un mot de passe'; 
+                    errmessage = "#no-nothing";
+                }
+                
+                // Check if the email address is valid
+                var rege = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+                if(rege.test($('#username').val())){  
+                } else {
+                    //errmessage = 'Le nom utilisateur doit être une adresse courriel complète';
+                    errmessage = "#no-email";
+                }
+
+                if(errmessage) { 
+                    //alert(errmessage);
+                    $(errmessage).show();
+                    return false;
+                }
+
+                    // Si le bouton Remember est coché, on enregistre les variables dans des cookies pour la prochaine fois.
+                    if ($('#remember_login').is(':checked')) {
+                        setCookie("username",username,365); // 365 = valide pour un an
+                        setCookie("password",password,365); // 365 = valide pour un an
+                    } else {
+                        // Si le bouton Remember est pas coché, on efface les cookies existants.
+                        document.cookie = "username=; expires=Thu, 01 Jan 1970 00:00:00 GMT";
+                        document.cookie = "password=; expires=Thu, 01 Jan 1970 00:00:00 GMT";                        
+                    }
+
+                return true;
+            });	
+            
+            // Fin du script de validation de champs	
+            
+        });
+
+</script>
+
+<script type="text/javascript">
+                
+
+// Fin de ce qui touche les cookies -->
+
+                function showSousMenu(elementName)
+                {
+                                        if(elementName != 'b-solutions' && elementName != 'b-a-propos')
+                    {
+
+                        if(!elementName)
+                        {
+                            $(".menuAPropos").css("display", "none"); 
+                            $(".menuSolution").css("display", "none");  
+                        }
+                        else
+                        {
+                            $(".menuAPropos").css("display", "none"); 
+                            $(".menuSolution").css("display", "none"); 
+                        }
+                    }
+
+                    // CE QUI SUIT AJOUTÉ PAR DAVID GAGNON POUR AFFICHER SOUS-MENUS DE PAGES OU POSTS QUI NE FONT PAS PARTIE OFFICIELLEMENT D'UNE SOUS-SECTION MAIS D'UNE CATEGORIE
+
+                    // Déterminer la langue en PHP
+                                         
+                    // Convertir variable PHP pour utilisation en jQuery
+                     var resultLang = "es";
+
+                    // Récupération de la catégorie en cours et conversion de sa variable pour utilisation en jQuery
+                     var catName = null;
+                     //alert(catName);
+                     //alert('sitemap');
+
+                    // Convertir variable $slug pour utilisation avec jQuery
+                    var slug =  "sitemap";
+
+                    // Si telle catégorie, on affiche menu correspondant et/ou active le bon sous-menu sélectionné.
+                     if (catName == 'Nouvelles' || catName == 'News' || slug == 'communiques-nouvelles')
+                     {
+                        if ( resultLang == 'en') {
+                         $(".b-news-and-press-releases").addClass("active");
+                         $(".menuAPropos").css("display","block"); 
+                         $(".menuSolution").css("display","none"); 
+                        } else {
+                         $(".b-communiques-nouvelles").addClass("active");
+                         $(".menuAPropos").css("display","block"); 
+                         $(".menuSolution").css("display","none"); 
+                        }  
+                     }
+
+                    if (catName == 'Equipe' || slug == 'lequipe')
+                     {
+                        if ( resultLang == 'en') {
+                            $(".b-our-team").addClass("active");
+                        } else {
+                            $(".b-lequipe").addClass("active");
+                        }
+                     }
+
+                    if (catName == 'Sirev' || slug == 'agences-aux-fournisseurs')
+                     {
+                        if ( resultLang == 'en') {
+                            $(".b-agencies-to-providers").addClass("active");
+                        } else {
+                            $(".b-agences-aux-fournisseurs").addClass("active");
+                        }
+                     }
+
+                    if (catName == 'B2C' || slug == 'agences-aux-consommateurs')
+                     {
+                        if ( resultLang == 'en') {
+                            $(".b-agencies-to-consumers").addClass("active");
+                        } else {
+                            $(".b-agences-aux-consommateurs").addClass("active");
+                        }                        
+                     }
+
+                     if (catName == 'Tour Operateurs' || slug == 'tour-doperateurs')
+                     {
+                        if ( resultLang == 'en') {
+                            $(".b-tour-operators").addClass("active");
+                        } else {
+                            $(".b-tour-doperateurs").addClass("active");
+                        }  
+                     }
+
+                     if (catName == 'Fournisseurs' || slug == 'fournisseurs')
+                     {
+                        if ( resultLang == 'en') {
+                            $(".b-suppliers").addClass("active");
+                        } else {
+                            $(".b-fournisseurs").addClass("active");
+                        }  
+                     }
+
+                    if (slug == 'emplois' || slug == 'emplois')
+                     {
+                        if ( resultLang == 'en') {
+                            $(".b-careers").addClass("active");
+                        }  
+                     }
+
+                     if (slug == 'apercu' || slug == 'apercu')
+                     {
+                        if ( resultLang == 'en') {
+                            $(".b-about").addClass("active");
+                        }  
+                     }
+
+
+                    // FIN DES AJOUTS PAR DAVID =====
+
+
+                    if(elementName == 'b-solutions')
+                    {
+                        $(".menuSolution").css("display","block"); 
+                        $(".menuAPropos").css("display","none"); 
+                    }
+                    
+                    if(elementName == 'b-a-propos')
+                    {
+                        $(".menuAPropos").css("display","block"); 
+                        $(".menuSolution").css("display","none"); 
+                    }
+                    
+                    if(elementName == 'b-clients-existants')
+                    {
+                        $(".menuAPropos").css("display","none"); 
+                        $(".menuSolution").css("display","none"); 
+                    }
+
+
+                }
+
+
+                function showSousMenuLevel2(elementName)
+                {
+                    $(".sub-menu").css("display", "none"); 
+                    if(typeof(elementName) != "undefined")
+                        $("."+elementName).css("display","block"); 
+                }
+
+        </script>
+    </div>
+</div>
+</div>
+	</header><!-- #branding -->
+
+    	<div class="clear"></div>
+	<div id="main">
+
+
+
+
+<div class="sol_main contact_main">
+    <div class="container">
+        <div style="min-height: 34px;">
+    <div class="S_top_nav menuSolution" style="display:none;" onmouseover="showSousMenu('b-solutions')" onmouseout="showSousMenu()">
+        
+            <ul class="menu">
+            
+                <li onmouseover="showSousMenuLevel2('s-agencias-a-proveedores')" onmouseout="showSousMenuLevel2()" class = "b-agencias-a-proveedores">
+                <a href="http://www.softvoyage.com/es/solutions/agences-aux-fournisseurs/">Agencias a proveedores</a><span> </span>
+                </li>
+                
+                <li onmouseover="showSousMenuLevel2('s-agencias-a-consumidores')" onmouseout="showSousMenuLevel2()" class = "b-agencias-a-consumidores">
+                <a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/">Agencias a consumidores</a><ul class="sub-menu s-agencias-a-consumidores">
+                        <li class = "b-paquetes">
+                        <a style="width: 144px;" href="/solutions/agences-aux-consommateurs/forfaits/">Paquetes</a>
+                        </li>
+                        
+                        <li class = "b-vuelos">
+                        <a style="width: 144px;" href="/solutions/agences-aux-consommateurs/vols/">Vuelos</a>
+                        </li>
+                        
+                        <li class = "b-hoteles">
+                        <a style="width: 144px;" href="/solutions/agences-aux-consommateurs/hotels/">Hoteles</a>
+                        </li>
+                        
+                        <li class = "b-tours">
+                        <a style="width: 144px;" href="/solutions/agences-aux-consommateurs/circuits/">Tours</a>
+                        </li>
+                        </ul><span> </span>
+                </li>
+                
+                <li onmouseover="showSousMenuLevel2('s-touroperadores')" onmouseout="showSousMenuLevel2()" class = "b-touroperadores">
+                <a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/">Touroperadores</a><ul class="sub-menu s-touroperadores">
+                        <li class = "b-tts">
+                        <a style="width: 89px;" href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tts/">TTS</a>
+                        </li>
+                        
+                        <li class = "b-tim">
+                        <a style="width: 89px;" href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tim/">TIM</a>
+                        </li>
+                        </ul><span> </span>
+                </li>
+                
+                <li onmouseover="showSousMenuLevel2('s-proveedores')" onmouseout="showSousMenuLevel2()" class = "b-proveedores">
+                <a href="http://www.softvoyage.com/es/solutions/fournisseurs/">Proveedores</a>
+                </li>
+                
+            </ul>
+                </div>
+
+    <div class="S_top_nav menuAPropos" style="display:none;" onmouseover="showSousMenu('b-a-propos')" onmouseout="showSousMenu()">
+        
+            <ul class="menu">
+            
+                <li onmouseover="showSousMenuLevel2('s-acerca-de')" onmouseout="showSousMenuLevel2()" class = "b-acerca-de">
+                <a href="http://www.softvoyage.com/es/a-propos/apercu/">Acerca de</a><span> </span>
+                </li>
+                
+                <li onmouseover="showSousMenuLevel2('s-nuestro-equipo')" onmouseout="showSousMenuLevel2()" class = "b-nuestro-equipo">
+                <a href="http://www.softvoyage.com/es/a-propos/lequipe/">Nuestro Equipo</a><span> </span>
+                </li>
+                
+                <li onmouseover="showSousMenuLevel2('s-noticias-y-comunicados-de-prensa')" onmouseout="showSousMenuLevel2()" class = "b-noticias-y-comunicados-de-prensa">
+                <a href="http://www.softvoyage.com/es/a-propos/communiques-nouvelles/">Noticias y Comunicados de Prensa</a><span> </span>
+                </li>
+                
+                <li onmouseover="showSousMenuLevel2('s-apoyo')" onmouseout="showSousMenuLevel2()" class = "b-apoyo">
+                <a href="http://www.softvoyage.com/es/a-propos/support/">Apoyo</a><span> </span>
+                </li>
+                
+                <li onmouseover="showSousMenuLevel2('s-carreras')" onmouseout="showSousMenuLevel2()" class = "b-carreras">
+                <a href="http://www.softvoyage.com/es/a-propos/emplois/">Carreras</a>
+                </li>
+                
+            </ul>
+                </div>
+
+<!--     <div class="S_top_nav menuClients" style="display:none;" onmouseover="showSousMenu('b-clients-existants')" onmouseout="showSousMenu()">
+        
+            <ul class="menu">
+            
+                <li onmouseover="showSousMenuLevel2('s-acerca-de')" onmouseout="showSousMenuLevel2()" class = "b-acerca-de">
+                <a href="http://www.softvoyage.com/es/a-propos/">Acerca de</a><ul class="sub-menu s-acerca-de">
+                        <li class = "b-apercu">
+                        <a style="width: 54px;" href="http://www.softvoyage.com/es/a-propos/apercu/">Aperçu</a>
+                        </li>
+                        
+                        <li class = "b-noticias-y-comunicados-de-prensa">
+                        <a style="width: 54px;" href="http://www.softvoyage.com/es/a-propos/communiques-nouvelles/">Noticias y comunicados de prensa</a>
+                        </li>
+                        
+                        <li class = "b-carreras">
+                        <a style="width: 54px;" href="http://www.softvoyage.com/es/a-propos/emplois/">Carreras</a>
+                        </li>
+                        
+                        <li class = "b-">
+                        <a style="width: 54px;" href=""></a>
+                        </li>
+                        
+                        <li class = "b-atencion-al-cliente">
+                        <a style="width: 54px;" href="http://www.softvoyage.com/es/a-propos/support/">Atención al cliente</a>
+                        </li>
+                        </ul><span> </span>
+                </li>
+                
+                <li onmouseover="showSousMenuLevel2('s-bienvenido')" onmouseout="showSousMenuLevel2()" class = "b-bienvenido">
+                <a href="http://www.softvoyage.com/es/">Bienvenido</a><span> </span>
+                </li>
+                
+                <li onmouseover="showSousMenuLevel2('s-clientes-y-socios')" onmouseout="showSousMenuLevel2()" class = "b-clientes-y-socios">
+                <a href="http://www.softvoyage.com/es/clients-existants/">Clientes y Socios</a><span> </span>
+                </li>
+                
+                <li onmouseover="showSousMenuLevel2('s-contacto')" onmouseout="showSousMenuLevel2()" class = "b-contacto">
+                <a href="http://www.softvoyage.com/es/contact/">Contacto</a><span> </span>
+                </li>
+                
+                <li onmouseover="showSousMenuLevel2('s-mapa-del-sitio')" onmouseout="showSousMenuLevel2()" class = "b-mapa-del-sitio">
+                <a href="http://www.softvoyage.com/es/sitemap/">Mapa del sitio</a><span> </span>
+                </li>
+                
+                <li onmouseover="showSousMenuLevel2('s-soluciones')" onmouseout="showSousMenuLevel2()" class = "b-soluciones">
+                <a href="http://www.softvoyage.com/es/solutions/">Soluciones</a><ul class="sub-menu s-soluciones">
+                        <li class = "b-">
+                        <a style="width: 62px;" href=""></a>
+                        </li>
+                        
+                        <li class = "b-">
+                        <a style="width: 62px;" href=""></a>
+                        </li>
+                        
+                        <li class = "b-">
+                        <a style="width: 62px;" href=""></a>
+                        </li>
+                        
+                        <li class = "b-">
+                        <a style="width: 62px;" href=""></a>
+                        </li>
+                        </ul><span> </span>
+                </li>
+                
+                <li onmouseover="showSousMenuLevel2('s-tecnologia')" onmouseout="showSousMenuLevel2()" class = "b-tecnologia">
+                <a href="http://www.softvoyage.com/es/technologie/">Tecnología</a>
+                </li>
+                
+            </ul>
+                </div> -->
+
+</div>          
+        <h1>Plan du site</h1>
+    </div>    
+</div> 
+
+<div class="container equipe_cont">
+    <div class="main_container">
+        <div class="row">   
+
+                    
+<article id="post-763" class="post-763 page type-page status-publish hentry">
+	<header class="entry-header">
+		<h1 class="entry-title">Mapa del sitio</h1>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+					</div><!-- .entry-content -->
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+</article><!-- #post-763 -->
+                        <div id="content">
+
+
+<!-- SHOWS ALL THE PAGES IN THE SITE -->
+<!-- <div class="comment" style="float: left; margin-right: 20px;  width: 230px;">
+<h2>Pages</h2>
+<ul><li class="page_item page-item-79"><a href="http://www.softvoyage.com/es/a-propos/">Acerca de</a>
+<ul class='children'>
+	<li class="page_item page-item-53"><a href="http://www.softvoyage.com/es/a-propos/apercu/">Aperçu</a></li>
+	<li class="page_item page-item-57"><a href="http://www.softvoyage.com/es/a-propos/communiques-nouvelles/">Noticias y comunicados de prensa</a></li>
+	<li class="page_item page-item-63"><a href="http://www.softvoyage.com/es/a-propos/emplois/">Carreras</a></li>
+	<li class="page_item page-item-55"><a href="http://www.softvoyage.com/es/a-propos/lequipe/">Nuestro equipo</a>
+	<ul class='children'>
+		<li class="page_item page-item-882"><a href="http://www.softvoyage.com/es/a-propos/lequipe/celine-lavoie/">Nuestro equipo / Céline Lavoie</a></li>
+		<li class="page_item page-item-878"><a href="http://www.softvoyage.com/es/a-propos/lequipe/christian-scott/">Nuestro equipo / Christian Scott</a></li>
+		<li class="page_item page-item-873"><a href="http://www.softvoyage.com/es/a-propos/lequipe/dan-langevin/">Nuestro equipo / Dan Langevin</a></li>
+		<li class="page_item page-item-880"><a href="http://www.softvoyage.com/es/a-propos/lequipe/frantzcy-paisible/">Nuestro equipo / Frantzcy Paisible</a></li>
+		<li class="page_item page-item-861"><a href="http://www.softvoyage.com/es/a-propos/lequipe/james-barnard/">Nuestro equipo / James Barnard</a></li>
+		<li class="page_item page-item-867"><a href="http://www.softvoyage.com/es/a-propos/lequipe/moise-levy/">Nuestro equipo / Moïse Lévy</a></li>
+		<li class="page_item page-item-875"><a href="http://www.softvoyage.com/es/a-propos/lequipe/robert-leprohon/">Nuestro equipo / Robert Leprohon</a></li>
+		<li class="page_item page-item-863"><a href="http://www.softvoyage.com/es/a-propos/lequipe/steve-ringuet/">Nuestro equipo / Steve Ringuet</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-60"><a href="http://www.softvoyage.com/es/a-propos/support/">Atención al cliente</a></li>
+</ul>
+</li>
+<li class="page_item page-item-37"><a href="http://www.softvoyage.com/es/">Bienvenido</a></li>
+<li class="page_item page-item-23"><a href="http://www.softvoyage.com/es/clients-existants/">Clientes y Socios</a></li>
+<li class="page_item page-item-29"><a href="http://www.softvoyage.com/es/contact/">Contacto</a></li>
+<li class="page_item page-item-763 current_page_item"><a href="http://www.softvoyage.com/es/sitemap/">Mapa del sitio</a></li>
+<li class="page_item page-item-18"><a href="http://www.softvoyage.com/es/solutions/">Soluciones</a>
+<ul class='children'>
+	<li class="page_item page-item-42"><a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/">Agencias a consumidores</a>
+	<ul class='children'>
+		<li class="page_item page-item-367"><a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/circuits/">Tours / Visión de conjunto</a>
+		<ul class='children'>
+			<li class="page_item page-item-1229"><a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/circuits/b2c-tours-about/">Tours / Características del producto</a></li>
+			<li class="page_item page-item-1310"><a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/circuits/automatismes-pour-la-facturation/">Tours / La automatización de la facturación a través Mergebacks</a></li>
+			<li class="page_item page-item-1307"><a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/circuits/le-centre-de-controle/">Tours / Centro de Control de</a></li>
+			<li class="page_item page-item-1294"><a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/circuits/types-dintegration/">Tours / Tipos de integración</a></li>
+			<li class="page_item page-item-1287"><a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/circuits/fournisseurs-deja-disponibles-dans-circuits/">Proveedores disponibles en TOURS</a></li>
+			<li class="page_item page-item-1321"><a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/circuits/processus-dimplantation/">Proceso de Implementación</a></li>
+		</ul>
+</li>
+		<li class="page_item page-item-368"><a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/croisieres/">Crucero</a></li>
+		<li class="page_item page-item-356"><a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/forfaits/">Ofertas Especiales / Información general</a>
+		<ul class='children'>
+			<li class="page_item page-item-1188"><a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/forfaits/avantages-et-options/">Ofertas Especiales / Opciones y beneficios</a></li>
+			<li class="page_item page-item-1180"><a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/forfaits/b2c-forfaits-features/">Ofertas Especiales / Características</a></li>
+		</ul>
+</li>
+		<li class="page_item page-item-366"><a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/hotels/">Hoteles / Información general</a>
+		<ul class='children'>
+			<li class="page_item page-item-1211"><a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/hotels/b2c-hotels-benefits/">Hoteles / Opciones y beneficios</a></li>
+			<li class="page_item page-item-1221"><a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/hotels/b2c-hotels-features/">Hoteles / Características</a></li>
+		</ul>
+</li>
+		<li class="page_item page-item-369"><a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/voitures/">Coches</a></li>
+		<li class="page_item page-item-360"><a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/vols/">Vuelos / Información general</a>
+		<ul class='children'>
+			<li class="page_item page-item-1202"><a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/vols/b2c-vols-features/">Vuelos / Características</a></li>
+			<li class="page_item page-item-1208"><a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/vols/b2c-vols-benefits/">Vuelos / Opciones y beneficios</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="page_item page-item-46"><a href="http://www.softvoyage.com/es/solutions/fournisseurs/">Proveedores</a>
+	<ul class='children'>
+		<li class="page_item page-item-1136"><a href="http://www.softvoyage.com/es/solutions/fournisseurs/distribuer-aux-agences/">Proveedores / Distribuir a las agencias</a></li>
+		<li class="page_item page-item-1166"><a href="http://www.softvoyage.com/es/solutions/fournisseurs/solutions-de-gestion-pour-compagnies-aeriennes/">Proveedores / Sistemas de Gestión</a></li>
+		<li class="page_item page-item-1146"><a href="http://www.softvoyage.com/es/solutions/fournisseurs/vendre-en-ligne-aux-agences-de-voyage-et-tour-operateurs/">Proveedores / Vender en línea a Tour Operadores y Agencias de Viajes</a></li>
+		<li class="page_item page-item-1154"><a href="http://www.softvoyage.com/es/solutions/fournisseurs/vendre-en-ligne-aux-consommateurs/">Proveedores / Vender en línea a</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-40"><a href="http://www.softvoyage.com/es/solutions/agences-aux-fournisseurs/">Sirev / Agencias a proveedores</a>
+	<ul class='children'>
+		<li class="page_item page-item-632"><a href="http://www.softvoyage.com/es/solutions/agences-aux-fournisseurs/pour-nous-joindre/">Contáctenos</a></li>
+		<li class="page_item page-item-626"><a href="http://www.softvoyage.com/es/solutions/agences-aux-fournisseurs/fonctionnalites-et-avantages/">Sirev / Características y Beneficios</a></li>
+		<li class="page_item page-item-629"><a href="http://www.softvoyage.com/es/solutions/agences-aux-fournisseurs/partenaires/">Sirev / Socios</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-44"><a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/">Touroperadores</a>
+	<ul class='children'>
+		<li class="page_item page-item-172"><a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/sirev/">Sirev</a></li>
+		<li class="page_item page-item-75"><a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tim/">TIM</a>
+		<ul class='children'>
+			<li class="page_item page-item-476"><a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tim/facturation/">TIM / La automatización de la facturación a través Mergebacks</a></li>
+			<li class="page_item page-item-455"><a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tim/disponibilite/">TIM / Donde hay excursiones disponibles?</a></li>
+			<li class="page_item page-item-463"><a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tim/utilisetim/">TIM / Tour Operadores y proveedores utilizando TIM</a></li>
+			<li class="page_item page-item-485"><a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tim/media/">TIM / Medios de comunicación</a></li>
+			<li class="page_item page-item-479"><a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tim/implantation/">TIM / Proceso de Implementación</a></li>
+			<li class="page_item page-item-441"><a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tim/apercu/">TIM / Características del producto</a></li>
+		</ul>
+</li>
+		<li class="page_item page-item-166"><a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tts/">TTS</a>
+		<ul class='children'>
+			<li class="page_item page-item-558"><a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tts/contactus/">Contáctenos</a></li>
+			<li class="page_item page-item-550"><a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tts/fonctionnalites-integrees-et-avantages/">TTS / Características y Beneficios Básicos</a></li>
+			<li class="page_item page-item-553"><a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tts/fonctionnalites-optionnelles-et-avantages/">TTS / Características y Beneficios opcionales</a></li>
+			<li class="page_item page-item-556"><a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tts/partenaires/">TTS / Socios</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="page_item page-item-20"><a href="http://www.softvoyage.com/es/technologie/">Tecnología</a></li>
+</ul>
+</div> -->
+
+
+<!-- SHOWS ALL THE RSS FEEDS -->
+<!-- <div class="comment" style="width: 150px;">
+<h2>RSS Feeds</h2>
+<ul>
+<li><a title="Full content" href="feed:http://www.softvoyage.com/es/feed/">Main RSS</a></li>
+<li><a title="Comment Feed" href="feed:http://www.softvoyage.com/es/comments/feed/">Comment Feed</a></li>
+</ul>
+</div> --><!-- /comment -->
+
+<!-- SHOWS ALL THE CATEGORIES IN THE SITE, I renamed Categories to "Sections" -->
+<!-- <div class="sitemap-bubble" style="width: 150px; margin-right: 20px;">
+<h2>Sections</h2>
+<ul><li class="categories">Categorías<ul>	<li class="cat-item cat-item-23"><a href="http://www.softvoyage.com/es/category/a-propos-2/" title="Ver todas las entradas archivadas en À Propos">À Propos</a> (<a href="http://www.softvoyage.com/es/category/a-propos-2/feed/" title="RSS">RSS</a>)
+</li>
+	<li class="cat-item cat-item-32"><a href="http://www.softvoyage.com/es/category/a-propos-2/apercu/" title="Ver todas las entradas archivadas en Apercu">Apercu</a> (<a href="http://www.softvoyage.com/es/category/a-propos-2/apercu/feed/" title="RSS">RSS</a>)
+</li>
+	<li class="cat-item cat-item-31"><a href="http://www.softvoyage.com/es/category/solutions-2/b2c/" title="Ver todas las entradas archivadas en B2C">B2C</a> (<a href="http://www.softvoyage.com/es/category/solutions-2/b2c/feed/" title="RSS">RSS</a>)
+</li>
+	<li class="cat-item cat-item-28"><a href="http://www.softvoyage.com/es/category/clients-2/" title="Ver todas las entradas archivadas en Clients">Clients</a> (<a href="http://www.softvoyage.com/es/category/clients-2/feed/" title="RSS">RSS</a>)
+</li>
+	<li class="cat-item cat-item-26"><a href="http://www.softvoyage.com/es/category/contact/" title="Ver todas las entradas archivadas en Contact">Contact</a> (<a href="http://www.softvoyage.com/es/category/contact/feed/" title="RSS">RSS</a>)
+</li>
+	<li class="cat-item cat-item-33"><a href="http://www.softvoyage.com/es/category/a-propos-2/emploi/" title="Ver todas las entradas archivadas en Emploi">Emploi</a> (<a href="http://www.softvoyage.com/es/category/a-propos-2/emploi/feed/" title="RSS">RSS</a>)
+</li>
+	<li class="cat-item cat-item-30"><a href="http://www.softvoyage.com/es/category/a-propos-2/equipe/" title="Ver todas las entradas archivadas en Equipe">Equipe</a> (<a href="http://www.softvoyage.com/es/category/a-propos-2/equipe/feed/" title="RSS">RSS</a>)
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.softvoyage.com/es/category/solutions-2/fournisseurs/" title="Ver todas las entradas archivadas en Fournisseurs">Fournisseurs</a> (<a href="http://www.softvoyage.com/es/category/solutions-2/fournisseurs/feed/" title="RSS">RSS</a>)
+</li>
+	<li class="cat-item cat-item-15"><a href="http://www.softvoyage.com/es/category/communiques-nouvelles/" title="Communiques et nouvelles">Nouvelles</a> (<a href="http://www.softvoyage.com/es/category/communiques-nouvelles/feed/" title="RSS">RSS</a>)
+</li>
+	<li class="cat-item cat-item-16"><a href="http://www.softvoyage.com/es/category/solutions-2/sirev/" title="Ver todas las entradas archivadas en Sirev">Sirev</a> (<a href="http://www.softvoyage.com/es/category/solutions-2/sirev/feed/" title="RSS">RSS</a>)
+</li>
+	<li class="cat-item cat-item-22"><a href="http://www.softvoyage.com/es/category/solutions-2/" title="Ver todas las entradas archivadas en Solutions">Solutions</a> (<a href="http://www.softvoyage.com/es/category/solutions-2/feed/" title="RSS">RSS</a>)
+</li>
+	<li class="cat-item cat-item-24"><a href="http://www.softvoyage.com/es/category/technologie/" title="Ver todas las entradas archivadas en technologie">technologie</a> (<a href="http://www.softvoyage.com/es/category/technologie/feed/" title="RSS">RSS</a>)
+</li>
+	<li class="cat-item cat-item-25"><a href="http://www.softvoyage.com/es/category/temoignages/" title="Ver todas las entradas archivadas en Temoignages">Temoignages</a> (<a href="http://www.softvoyage.com/es/category/temoignages/feed/" title="RSS">RSS</a>)
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.softvoyage.com/es/category/solutions-2/tour-operateurs/" title="Ver todas las entradas archivadas en Tour Operateurs">Tour Operateurs</a> (<a href="http://www.softvoyage.com/es/category/solutions-2/tour-operateurs/feed/" title="RSS">RSS</a>)
+</li>
+</ul></li></ul>
+</div> --><!-- /comment -->
+
+<!-- SHOWS ONE CATEGORY IN PARTICULIAR / Solutions-->
+<div class="sitemap-bubble">
+<h2>Solutions</h2>
+<ul><li>
+<a href="http://www.softvoyage.com/es/solutions/agences-aux-fournisseurs/" rel="bookmark" title="Permanent Link to Sirev / Agencias a proveedores">Sirev / Agencias a proveedores</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/" rel="bookmark" title="Permanent Link to Agencias a consumidores">Agencias a consumidores</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/" rel="bookmark" title="Permanent Link to Touroperadores">Touroperadores</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/fournisseurs/" rel="bookmark" title="Permanent Link to Proveedores">Proveedores</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tim/" rel="bookmark" title="Permanent Link to TIM">TIM</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tts/" rel="bookmark" title="Permanent Link to TTS">TTS</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/forfaits/" rel="bookmark" title="Permanent Link to Ofertas Especiales / Información general">Ofertas Especiales / Información general</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/vols/" rel="bookmark" title="Permanent Link to Vuelos / Información general">Vuelos / Información general</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/hotels/" rel="bookmark" title="Permanent Link to Hoteles / Información general">Hoteles / Información general</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/circuits/" rel="bookmark" title="Permanent Link to Tours / Visión de conjunto">Tours / Visión de conjunto</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tim/apercu/" rel="bookmark" title="Permanent Link to TIM / Características del producto">TIM / Características del producto</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tim/disponibilite/" rel="bookmark" title="Permanent Link to TIM / Donde hay excursiones disponibles?">TIM / Donde hay excursiones disponibles?</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tim/utilisetim/" rel="bookmark" title="Permanent Link to TIM / Tour Operadores y proveedores utilizando TIM">TIM / Tour Operadores y proveedores utilizando TIM</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tim/facturation/" rel="bookmark" title="Permanent Link to TIM / La automatización de la facturación a través Mergebacks">TIM / La automatización de la facturación a través Mergebacks</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tim/implantation/" rel="bookmark" title="Permanent Link to TIM / Proceso de Implementación">TIM / Proceso de Implementación</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tim/media/" rel="bookmark" title="Permanent Link to TIM / Medios de comunicación">TIM / Medios de comunicación</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tts/fonctionnalites-integrees-et-avantages/" rel="bookmark" title="Permanent Link to TTS / Características y Beneficios Básicos">TTS / Características y Beneficios Básicos</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tts/fonctionnalites-optionnelles-et-avantages/" rel="bookmark" title="Permanent Link to TTS / Características y Beneficios opcionales">TTS / Características y Beneficios opcionales</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/tour-doperateurs/tts/partenaires/" rel="bookmark" title="Permanent Link to TTS / Socios">TTS / Socios</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/agences-aux-fournisseurs/fonctionnalites-et-avantages/" rel="bookmark" title="Permanent Link to Sirev / Características y Beneficios">Sirev / Características y Beneficios</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/agences-aux-fournisseurs/partenaires/" rel="bookmark" title="Permanent Link to Sirev / Socios">Sirev / Socios</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/fournisseurs/distribuer-aux-agences/" rel="bookmark" title="Permanent Link to Proveedores / Distribuir a las agencias">Proveedores / Distribuir a las agencias</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/fournisseurs/vendre-en-ligne-aux-agences-de-voyage-et-tour-operateurs/" rel="bookmark" title="Permanent Link to Proveedores / Vender en línea a Tour Operadores y Agencias de Viajes">Proveedores / Vender en línea a Tour Operadores y Agencias de Viajes</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/fournisseurs/vendre-en-ligne-aux-consommateurs/" rel="bookmark" title="Permanent Link to Proveedores / Vender en línea a">Proveedores / Vender en línea a</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/fournisseurs/solutions-de-gestion-pour-compagnies-aeriennes/" rel="bookmark" title="Permanent Link to Proveedores / Sistemas de Gestión">Proveedores / Sistemas de Gestión</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/forfaits/b2c-forfaits-features/" rel="bookmark" title="Permanent Link to Ofertas Especiales / Características">Ofertas Especiales / Características</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/forfaits/avantages-et-options/" rel="bookmark" title="Permanent Link to Ofertas Especiales / Opciones y beneficios">Ofertas Especiales / Opciones y beneficios</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/vols/b2c-vols-features/" rel="bookmark" title="Permanent Link to Vuelos / Características">Vuelos / Características</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/vols/b2c-vols-benefits/" rel="bookmark" title="Permanent Link to Vuelos / Opciones y beneficios">Vuelos / Opciones y beneficios</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/hotels/b2c-hotels-benefits/" rel="bookmark" title="Permanent Link to Hoteles / Opciones y beneficios">Hoteles / Opciones y beneficios</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/hotels/b2c-hotels-features/" rel="bookmark" title="Permanent Link to Hoteles / Características">Hoteles / Características</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/circuits/b2c-tours-about/" rel="bookmark" title="Permanent Link to Tours / Características del producto">Tours / Características del producto</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/circuits/types-dintegration/" rel="bookmark" title="Permanent Link to Tours / Tipos de integración">Tours / Tipos de integración</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/circuits/le-centre-de-controle/" rel="bookmark" title="Permanent Link to Tours / Centro de Control de">Tours / Centro de Control de</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/circuits/automatismes-pour-la-facturation/" rel="bookmark" title="Permanent Link to Tours / La automatización de la facturación a través Mergebacks">Tours / La automatización de la facturación a través Mergebacks</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/solutions/agences-aux-consommateurs/circuits/processus-dimplantation/" rel="bookmark" title="Permanent Link to Proceso de Implementación">Proceso de Implementación</a>
+</li>
+</ul>
+</div><!-- /sitemap-bubble -->
+
+<div style="width: 300px; float: left;">
+
+<!-- SHOWS ONE CATEGORY IN PARTICULIAR / Technologies-->
+<div class="sitemap-bubble">
+<h2>Technologies</h2>
+<ul><li>
+<a href="http://www.softvoyage.com/es/technologie/" rel="bookmark" title="Permanent Link to Tecnología">Tecnología</a>
+</li>
+</ul>
+</div><!-- /sitemap-bubble -->
+
+<!-- SHOWS ONE CATEGORY IN PARTICULIAR / Temoignages-->
+<div class="sitemap-bubble">
+<h2>Clients / Customers</h2>
+<ul><li>
+<a href="http://www.softvoyage.com/es/clients-existants/" rel="bookmark" title="Permanent Link to Clientes y Socios">Clientes y Socios</a>
+</li>
+</ul>
+</div><!-- /sitemap-bubble -->
+
+<!-- SHOWS ONE CATEGORY IN PARTICULIAR / Contact-->
+<div class="sitemap-bubble">
+<h2>Contact</h2>
+<ul><li>
+<a href="http://www.softvoyage.com/es/contact/" rel="bookmark" title="Permanent Link to Contacto">Contacto</a>
+</li>
+</ul>
+</div><!-- /sitemap-bubble -->
+
+</div><!-- /400px wrapper -->
+
+<!-- SHOWS ONE CATEGORY IN PARTICULIAR / A Propos-->
+<div class="sitemap-bubble">
+<h2>À Propos / About</h2>
+<!-- <ul><li>
+<a href="http://www.softvoyage.com/es/a-propos/apercu/" rel="bookmark" title="Permanent Link to Aperçu">Aperçu</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/a-propos/lequipe/" rel="bookmark" title="Permanent Link to Nuestro equipo">Nuestro equipo</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/a-propos/communiques-nouvelles/" rel="bookmark" title="Permanent Link to Noticias y comunicados de prensa">Noticias y comunicados de prensa</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/a-propos/support/" rel="bookmark" title="Permanent Link to Atención al cliente">Atención al cliente</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/a-propos/emplois/" rel="bookmark" title="Permanent Link to Carreras">Carreras</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/a-propos/lequipe/james-barnard/" rel="bookmark" title="Permanent Link to Nuestro equipo / James Barnard">Nuestro equipo / James Barnard</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/a-propos/lequipe/steve-ringuet/" rel="bookmark" title="Permanent Link to Nuestro equipo / Steve Ringuet">Nuestro equipo / Steve Ringuet</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/a-propos/lequipe/moise-levy/" rel="bookmark" title="Permanent Link to Nuestro equipo / Moïse Lévy">Nuestro equipo / Moïse Lévy</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/a-propos/lequipe/dan-langevin/" rel="bookmark" title="Permanent Link to Nuestro equipo / Dan Langevin">Nuestro equipo / Dan Langevin</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/a-propos/lequipe/robert-leprohon/" rel="bookmark" title="Permanent Link to Nuestro equipo / Robert Leprohon">Nuestro equipo / Robert Leprohon</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/a-propos/lequipe/christian-scott/" rel="bookmark" title="Permanent Link to Nuestro equipo / Christian Scott">Nuestro equipo / Christian Scott</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/a-propos/lequipe/frantzcy-paisible/" rel="bookmark" title="Permanent Link to Nuestro equipo / Frantzcy Paisible">Nuestro equipo / Frantzcy Paisible</a>
+</li>
+<li>
+<a href="http://www.softvoyage.com/es/a-propos/lequipe/celine-lavoie/" rel="bookmark" title="Permanent Link to Nuestro equipo / Céline Lavoie">Nuestro equipo / Céline Lavoie</a>
+</li>
+</ul> -->
+<ul><li>
+<a href="/a-propos/apercu/" rel="bookmark" title="Permanent Link to Aperçu">Aperçu</a>
+</li>
+<li>
+<a href="/a-propos/lequipe/" rel="bookmark" title="Permanent Link to L’équipe">L’équipe</a>
+</li>
+<li>
+<a href="/a-propos/communiques-nouvelles/" rel="bookmark" title="Permanent Link to Communiqués &amp; nouvelles">Communiqués &amp; nouvelles</a>
+</li>
+<li>
+<a href="/a-propos/support/" rel="bookmark" title="Permanent Link to Support à la clientèle">Support à la clientèle</a>
+</li>
+<li>
+<a href="/a-propos/emplois/" rel="bookmark" title="Permanent Link to Emplois">Emplois</a>
+</li>
+<li>
+<a href="/a-propos/lequipe/steve-ringuet/" rel="bookmark" title="Permanent Link to L’équipe / Steve Ringuet">L’équipe / Steve Ringuet</a>
+</li>
+<li>
+<a href="/a-propos/lequipe/moise-levy/" rel="bookmark" title="Permanent Link to L’équipe / Moïse Lévy">L’équipe / Moïse Lévy</a>
+</li>
+<li>
+<a href="/a-propos/lequipe/dan-langevin/" rel="bookmark" title="Permanent Link to L’équipe / Dan Langevin">L’équipe / Dan Langevin</a>
+</li>
+<li>
+<a href="/a-propos/lequipe/robert-leprohon/" rel="bookmark" title="Permanent Link to L’équipe / Robert Leprohon">L’équipe / Robert Leprohon</a>
+</li>
+<li>
+<a href="/a-propos/lequipe/christian-scott/" rel="bookmark" title="Permanent Link to L’équipe / Christian Scott">L’équipe / Christian Scott</a>
+</li>
+<li>
+<a href="/a-propos/lequipe/celine-lavoie/" rel="bookmark" title="Permanent Link to L’équipe / Céline Lavoie">L’équipe / Céline Lavoie</a>
+</li>
+<li>
+<a href="/a-propos/lequipe/frantzcy-paisible/" rel="bookmark" title="Permanent Link to L’équipe / Frantzcy Paisible">L’équipe / Frantzcy Paisible</a>
+</li>
+<li>
+<a href="/a-propos/lequipe/james-barnard/" rel="bookmark" title="Permanent Link to L’équipe / James Barnard">L’équipe / James Barnard</a>
+</li>
+</ul>
+
+</div><!-- /sitemap-bubble -->
+
+
+<!-- SHOWS ONE CATEGORY IN PARTICULIAR / Nouvelles-->
+<div class="sitemap-bubble">
+<h2>Nouvelles / News</h2>
+                    <li><a href="http://www.softvoyage.com/es/nouveau-fournisseur-skyroute/" title="New Vendor: SkyRoute">3 septiembre - New Vendor: SkyRoute</a></li>
+                                <li><a href="http://www.softvoyage.com/es/une-publication-associee-a-softvoyage/" title="A publication associated to Softvoyage!">8 julio - A publication associated to Softvoyage!</a></li>
+                                <li><a href="http://www.softvoyage.com/es/nouveau-fournisseur-airliners/" title="(English) New Vendor : Airliners!">27 junio - (English) New Vendor : Airliners!</a></li>
+                                <li><a href="http://www.softvoyage.com/es/nouveau-fournisseur-gogo-canada/" title="(English) New Vendor : GOGO Canada!">8 mayo - (English) New Vendor : GOGO Canada!</a></li>
+                                <li><a href="http://www.softvoyage.com/es/evenement-softvoyage-2013/" title="(English) Softvoyage Event in Montréal">5 abril - (English) Softvoyage Event in Montréal</a></li>
+                                <li><a href="http://www.softvoyage.com/es/monarc-classement-hotel-2012/" title="(English) Monarc Top Ranking 2012">20 marzo - (English) Monarc Top Ranking 2012</a></li>
+             
+
+</ul>
+</div><!-- /sitemap-bubble -->
+
+</div>
+</div>
+
+<div class="clear"></div>
+    </div>
+
+
+	</div> <!--#main -->
+
+	<footer id="colophon" role="contentinfo">
+
+
+  <!-- Footer Starts from here -->
+  <div class="footer">
+	<div class="container">
+    	<div class="row">
+
+<!-- Déterminer la langue en PHP puis afficher menu footer correspondant -->
+                    
+<!-- Si on est en espagnol on affiche ce footer -->
+        <div class="footerDiv" style="width: 300px;">
+        <ul>
+            <li style="white-space: nowrap"><a class="titre" href="/es/solutions/">Soluciones</a></li>
+            <li style="white-space: nowrap"><a href="/es/solutions/agences-aux-fournisseurs/">Agencias de Proveedores</a></li>
+            <li style="white-space: nowrap"><a href="/es/solutions/agences-aux-consommateurs/">Agencias para los consumidores</a></li>
+            <li style="white-space: nowrap"><a href="/es/solutions/tour-doperateurs/">Tour Operadores</a></li>
+            <li style="white-space: nowrap"><a href="/es/solutions/fournisseurs/">Proveedores</a></li>
+        </ul>
+        </div>
+        <div class="footerDiv" style="width: 300px;">
+        <ul>
+            <li style="white-space: nowrap"><a class="titre" href="/a-propos/">Acerca de</a></li>
+            <li style="white-space: nowrap"><a href="/es/a-propos/apercu/">Acerca de</a></li>
+            <li style="white-space: nowrap"><a href="/es/a-propos/lequipe/">Nuestro Equipo</a></li>
+            <li style="white-space: nowrap"><a href="/es/a-propos/communiques-nouvelles/">Noticias y Comunicados de Prensa</a></li>
+            <li style="white-space: nowrap"><a href="/es/a-propos/support/">Apoyo</a></li>
+            <li style="white-space: nowrap"><a href="/es/a-propos/emplois/">Carreras</a></li>
+        </ul>
+        </div> 
+          <div class="footer2"><ul id="menu-footer2" class="menu"><li id="menu-item-140" class="titre menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-37 current_page_item menu-item-140"><a class="titre" href="/es/">Bienvenido</a></li>
+<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a class="titre" href="/es/technologie/">Tecnología</a></li>
+<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a class="titre" href="/es/clients-existants/">Clientes</a></li>
+<li id="menu-item-141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141"><a class="titre" href="/es/contact/">Contacto</a></li>
+</ul></div>
+       </div>
+
+
+
+
+        <div class="row">
+        	<p>Copyright © 2013 Softvoyage inc.&nbsp;&nbsp;<span>Conception : <a href="http://www.lithiummarketing.com/" target="_blank">Lithium Marketing</a></span></p>
+            <div class="social_icons">
+                <ul>
+                    <li><a href="http://www.youtube.com/user/Softvoyage/videos?view=0" target="blank"><img src="http://www.softvoyage.com/wp-content/themes/softvoyage/images/icon4.png" alt="" /></a></li>
+                    <li><a href="http://www.linkedin.com/company/107494?trk=tyah" target="blank"><img src="http://www.softvoyage.com/wp-content/themes/softvoyage/images/icon3.png" alt="" /></a></li>
+                    <!-- <li><a href="#"><img src="http://www.softvoyage.com/wp-content/themes/softvoyage/images/icon2.png" alt="" /></a></li> -->
+                    <li><a href="index.php"><img src="http://www.softvoyage.com/wp-content/themes/softvoyage/images/icon1.png" alt="" /></a></li>
+                </ul>
+                <i>Suivez-nous !</i>
+            </div>
+        </div>
+    </div>    
+</div>  <!-- Footer Div ends here --> 
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://www.softvoyage.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.32.0-2013.04.03'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.softvoyage.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Enviando..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.softvoyage.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.4'></script>
+
+<script type="text/javascript">
+        showSousMenu();
+</script>
+
+
+            <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function(){  
+                
+            
+    $(".parent-menu").mouseover(function() { //When trigger is clicked...  
+          
+        //Following events are applied to the subnav itself (moving subnav up and down)  
+        $(this).parent().find("ul.sub-menu").slideDown('fast').show(); //Drop down the subnav on click  
+  
+        $(this).parent().hover(function() {  
+        }, function(){    
+            $(this).parent().find("ul.sub-menu").slideUp('slow'); //When the mouse hovers out of the subnav, move it back up  
+        });  
+  
+        //Following events are applied to the trigger (Hover events for the trigger)  
+        }).hover(function() {   
+            $(this).addClass("subhover"); //On hover over, add class "subhover"  
+        }, function(){  //On Hover Out  
+            $(this).removeClass("subhover"); //On hover out, remove class "subhover"  
+    });  
+  
+});             
+        </script>
+
+<!-- AJOUTÉ PAR DAVID POUR COINS RONDS COMPATIBLES PARTOUT -->
+<!--script src="http://code.jquery.com/jquery-migrate-1.0.0.js"></script>
+<script type="text/javascript" src="http://malsup.github.com/jquery.corner.js"></script>
+<script>
+    // DONNER UN COIN ROND ET PLAT AUX BULLES
+    //$('.main_container').corner("25px tl tr");
+    $('.main_container').corner("1px bl br");
+</script-->
+
+
+</body>
+</html>

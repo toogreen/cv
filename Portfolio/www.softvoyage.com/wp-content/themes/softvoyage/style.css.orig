@@ -1,0 +1,719 @@
+/* CSS Document */
+body{margin:0px; padding:0px 0px; font-family:Arial, Helvetica, sans-serif; font-size:12px; background:#f0f0f0;}
+h1, h2, h3, h4, h5, h6, p, form, input, ul, li{padding:0px; margin:0px; font-weight:normal;}
+p{line-height:17px; font:normal 13px Tahoma, Geneva, sans-serif; color:#545454;}
+ul,ol,li {list-style:none;}
+input, select, textarea{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000;}
+a{text-decoration:none; outline:none;}
+a:hover{text-decoration:none; outline:none;}
+a img{border:0px; outline:none;}
+.clear{clear:both; font-size:0px; height:0px; line-height:0px; display:block; background:#fff;}
+.fleft{float:left;}
+.fright{float:right !important;}
+
+/* ======================================== Master Styles ============================================ */
+.Master_div{width:100%; position:relative; z-index:1;}
+/* ======================================== Header Styles ============================================ */
+
+/*Ajout par David pour fonts */
+@font-face {
+  font-family: "Century Gothic";
+  src: url(gothic.ttf);
+}
+
+@font-face {
+	font-family: "Open Sans";
+	src: url(OpenSans-Regular.ttf);
+	/*src: url(http://fonts.googleapis.com/css?family=Open+Sans);*/
+}
+
+/* Ajout par David pour bouton dans classe box ET p */
+.box .button, .texte-normal .button{
+	color:#ffffff; 
+	font:bold 10px "Century Gothic"; 
+	line-height:18px; text-align:center; 
+	text-transform:uppercase; 
+	background:url(images/button_bg_small.png) no-repeat;
+	width: 75px;
+	height: 23px;
+	float: right;
+	bottom: 100px;
+	padding-top: 2px;
+}
+
+.center_text .button{
+	color:#ffffff; 
+	font:bold 10px "Century Gothic"; 
+	line-height:18px; text-align:center; 
+	text-transform:uppercase; 
+	background:url(images/button_bg_small.png) no-repeat;
+	width: 75px;
+	height: 23px;
+	float: right;
+	bottom: 100px;
+	padding-top: 2px;
+}
+
+/* Ajout par David pour paragraphes indentés */
+.indent-par{
+	position: relative;
+	font: 12px Tahoma,Geneva,sans-serif;
+	margin-left: 1.5em;
+	color: #545454;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	width: 550px;
+}
+
+/* Ajout par David pour texte normal */
+.texte-normal, .texte-normal p{
+    color: #545454;
+    font:normal 13px Tahoma, Geneva, sans-serif; 
+    line-height:17px; 
+    /*padding-bottom:15px;*/
+    margin-bottom: 1em;
+    /*margin-top: 1em;*/
+    /*margin-left: 5px;*/
+    /*width: 560px;*/
+}
+
+.texte-normal h1{font: bold 14px "Open Sans";}
+.texte-normal .row h1{font: bold 14px "Open Sans";}
+.texte-normal .row{margin-bottom: 2em;}
+.texte-normal ul{float:left; width:560px;}
+.texte-normal li{float:left; padding:0 0 4px 18px; width:100%; background:url(images/arrows.png) no-repeat left 4px; font:normal 13px Tahoma, Geneva, sans-serif; color:#545454;}
+.texte-normal ul li h2 {font: bold 12px "Open Sans";}
+.texte-normal td{font: bold 12px "Open Sans";}
+.texte-normal td a{color: #309ED9}
+.texte-normal p{width: 100%;}
+
+/* Pour abaisser les vidéos à l'intérieur d'un box - copié tout le box et ajouté un padding-top de 30px */
+.box-video{float:left; width:212px; position:relative; margin:10px 21px 0 0; background:url(images/box_bg.png) no-repeat left 23px; padding-top: 30px;}
+.box-video em{width:100%; float:left; text-align:center;}
+/* .box h1{font:bold 16px Century Gothic; color:#309ed9; float:left; width:100%; min-height:35px; padding-bottom:7px;} */
+.box-video h1{font:bold 14px Century Gothic; color:#309ed9; float:left; width:100%; min-height:35px; padding-bottom:7px;}
+.box-video h1.pad_top{padding-top:25px; min-height:28px;}
+.box-video h1 a{color:#309ed9; background:url(images/plus.png) no-repeat 97% center; float:left; width:100%;text-align:center; }
+.box-video p{font:normal 12px Tahoma, Geneva, sans-serif; color:#5c5c5c; line-height:15px; text-align:center; width:100%; float:left;}
+
+
+.team em img {
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	behavior: url(js/pie/PIE.php);
+}
+
+.colonne-large{width: 75%; float: left; margin-left: 5px;}
+.colonne-middle{width: 55%; float: left; vertical-align: top;}
+.colonne-mince{width: 20%; float: left; vertical-align: top;}
+
+.colonne-large a{color:#309ED9;}
+.colonne-mince a{color:#309ED9;}
+
+.colonne-half{
+	width: 50%; 
+	min-width: 300px; 
+	float: left; 
+	vertical-align: top;
+	color: #309ED9;
+    font: bold 19px "Open Sans";
+    padding: 0 0 15px;
+    }
+
+.colonne-half h1{
+	color: #309ED9;
+    font: bold 19px "Open Sans";
+    padding: 0 0 15px;
+}
+
+.colonne-half table a, .colonne-half table a:visited {
+	color: #309ED9;
+    font: bold 12px "Open Sans";
+}
+
+
+
+.news_container .main_container{margin-top: -250px; padding-top:15px;}
+.news_container .first_row .video{width:655px;}
+.news_container .first_row .contain{width:655px;}
+.news_container .first_row .center_content{float:right; margin:2px 15px 0 0;}
+.news_container .center_content em,.contact_cont .center_content em{font-size:18px; line-height:24px;}
+.news_container .comment{width:93%;}
+
+.table-partners{vertical-align: top;}
+.table-partners tr{height: 100px;}
+.table-partners td{width: 300px; font: bold 18px "Open Sans";}
+
+/*Copie de decovers mais pour SiteMap*/
+.sitemap-bubble{width:400px; min-height:50px; border:1px solid #69b4e1; float:left; margin: 0 0 30px 30px; padding:5px 10px 5px;}
+.sitemap-bubble h1{font:bold 14px "Open Sans";}
+.sitemap-bubble ul{float:left; width:100%; padding:5px 0 0;}
+.sitemap-bubble li{float:left; width: 100%; background:url(images/arrows.png) no-repeat left 4px; padding:0 0 15px 15px;}
+.sitemap-bubble li a{font:normal 11px "Open Sans"; float:left; height: 8px;}
+
+.sitemap-bubble {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	behavior: url(js/pie/PIE.php);
+}
+
+/*FIN DES AJOUTS PRINCIPAUX PAR DAVID */
+
+.header{width:100%; float:left; background:url(images/header_bg.png) repeat-x left top; min-height:104px;  padding:0px 0 0; position:relative;}
+.header .container{background:url(images/top_glow.png) no-repeat center top;}
+
+.header img.logo{margin:52px 0 0; float:left;}
+
+.header_R{float:right; width:435px; min-height:29px;}
+
+.header_R ul{float:left;}
+.header_R li{float:left; background:url(images/top_sep.png) no-repeat right bottom; padding:7px 15px;}
+.header_R li a{font:bold 10px "Century Gothic"; color:#ffffff; float:left;}
+
+.header_R form{float:right; padding:3px 0 0;}
+.header_R input{float:right; background:url(images/input_bg.png) no-repeat left top; width:166px; padding:5px 0 5px 8px; border:0; font:normal 10px Arial, Helvetica, sans-serif; color:#fff;}
+.header_R input.ok{width:25px; height:16px; cursor:pointer; background:url(images/ok_bg.png) no-repeat left top; text-align:center; padding:0; font-size:8px; text-shadow:#7e7e7e 0 -1px 0; line-height:8px;
+margin:3px 0 0 10px;}
+
+.navigation{float:right; width:750px; position:relative;}
+.navigation li{background:url(images/nav_sep.png) no-repeat right center; float:left;}
+.navigation li a{color:#4f4f4f; font:normal 14px Century Gothic; padding:0 15px; line-height:75px; float:left;}
+
+.navigation li a:hover{color:#309ed9; background:url(images/hover_arrow.png) no-repeat center bottom;}
+
+li.active a {
+    background: url("images/hover_arrow.png") no-repeat scroll center bottom transparent;
+    color: #309ED9;
+    font-weight: bold;
+}
+.navigation a.support{margin:0 0 0 15px; float:left;}
+
+#example2,.sol_main{width:100%; height:447px; position:relative; z-index:15; background:url(images/slider_bg.png) repeat-x left top;}
+#example2 .effectContainer{width:100%; float:left; position:relative; height:447px;}
+
+.slide{float:left; width:100%;}
+
+.fadenav{position:absolute; left:50%; bottom:40px; z-index:111;}
+.fadenav a{background:url(images/unsel_bullet.png) no-repeat left top; width:6px; height:6px; margin:0 3px; float:left;}
+.fadenav a:hover,.fadenav a.current{background-image:url(images/sel_bullet.png);}
+
+.title{width:450px; float:right; padding:25px 20px 0 0; position:relative; z-index:11;}
+.title h1{font:normal 46px "Open Sans"; color:#fff; text-shadow:#000 0 0 6px; line-height:46px;}
+.title h2{line-height: 10;}
+/*.title h1{font:bold 48px "Century Gothic"; color:#fff; line-height:46px;}*/
+.title p{color:#053b84; font:normal 14px "Open Sans"; line-height:18px; padding:15px 0;}
+.title a.button{color:#ffffff; font:bold 12px "Open Sans";; line-height:18px; text-align:center; text-transform:uppercase; background:url(images/button_bg.png) no-repeat left top;
+width:128px; float:left; padding:12px 13px 15px 0; text-shadow:#000 0 1px 2px;}
+
+
+
+img.hand{position:absolute; left:-35%; top:25px;}
+img.hand1{left:-23%; top:49px;}
+img.hand2{left:0%; top:44px;}
+/* ======================================== Container Styles ============================================ */
+.container{width:940px; margin:0px auto; position:relative;}
+.main_container{width:920px; margin:-25px 0 0; position:relative; z-index:31; background:#ffffff; padding:30px 10px 20px; float:left;  }
+ 
+.row{width:100%; float:left; padding:0 0 20px; background:url(images/dash.png) no-repeat center bottom;}
+.row h1{font:bold 19px "Open Sans"; color:#309ed9; padding:0 0 15px;}
+
+.video{float:left; width:441px; background:url(images/video_shadow.png) no-repeat center bottom; padding-bottom:8px;}
+.video div,.right_box em img,.tem_main .video em img{border:7px solid #e2e2e2; float:left;}
+.contain{float:left; width:665px; padding-bottom:8px;}
+
+.center_content{width:214px; float:left; margin:0 0 0 23px;}
+
+.comment{border:1px solid #64c6f4; padding:10px; position:relative; float:left;  margin-bottom:30px;}
+img.comment_arrow{position:absolute; left:21px; bottom:-15px;}
+.comment em{font:italic 14px 'Droid Serif'; color:#646363; line-height:19px;}
+.comment em a{color:#646363;}
+
+.information{border:1px solid #64c6f4; padding:10px; position:relative; float:left;}
+img.comment_arrow{position:absolute; left:21px; bottom:-15px;}
+.information em{font:italic 14px 'Droid Serif'; color:#646363; line-height:19px;}
+.information em a{color:#646363;}
+
+.name{width:100%; float:left; padding:20px 0 0; position:relative;}
+.name img{float:left; margin:6px 6px 0 0;}
+.name h2,.right_box a.plus{font:bold 13px "Century Gothic"; color:#309ed9; line-height:19px;}
+.name h2 a{ color:#309ed9;}
+.name span{font:normal 11px "Century Gothic"; color:#646363;}
+.name img.more{position:absolute; margin:0; right:0; bottom:13px;}
+
+.team{width:100%; float:left;}
+.team em{background:url(images/img_shadow.png) no-repeat center bottom; padding:0 0 6px; float:left;}
+.team em img{border:5px solid #e2e2e2;}
+.team h2{font:bold 15px "Open Sans"; color:#309ed9; line-height:19px;}
+.team h2 a{font:bold 15px "Open Sans"; color:#309ed9; line-height:19px;}
+.team h2 a:hover{font:bold 15px "Open Sans"; color:#309ed9; line-height:19px;}
+.team p{font:normal 13px Tahoma, Geneva, sans-serif; color:#646363; line-height:15px; padding:5px 0 0;}
+
+.team .name{padding:10px 0 0;}
+
+.box{float:left; width:212px; position:relative; margin:10px 21px 0 0; background:url(images/box_bg.png) no-repeat left 23px;}
+.box em{width:100%; float:left; text-align:center;}
+/* .box h1{font:bold 16px Century Gothic; color:#309ed9; float:left; width:100%; min-height:35px; padding-bottom:7px;} */
+.box h1{font:bold 14px Century Gothic; color:#309ed9; float:left; width:100%; min-height:35px; padding-bottom:7px;}
+.box h1.pad_top{padding-top:25px; min-height:28px;}
+.box h1 a{color:#309ed9; background:url(images/plus.png) no-repeat 97% center; float:left; width:100%;text-align:center; }
+.box p{font:normal 12px Tahoma, Geneva, sans-serif; color:#5c5c5c; line-height:15px; text-align:center; width:100%; float:left;}
+
+/* ======================================== Footer Styles ============================================ */
+.footer{width:100%; float:left; background:#353535 url(images/footer_bg.png) repeat-x left top; position:relative; padding:30px 0 0;}
+.footer .row{background:none;}
+
+.footer p{font:normal 11px Arial, Helvetica, sans-serif; color:#fff; float:left; line-height:22px; padding-left:20px;}
+.footer p span{color:#686868;}
+.footer p a{color:#686868; font-weight:bold;}
+
+.footer ul{float:left; padding:0 0 0 20px; width:190px; no-repeat right bottom;}
+.footerDiv{float:left; background:url(images/footer_sep.png) no-repeat right top;}
+.footer .footerDiv ul{background:none; margin-left: 20px;}
+.footer li .titre{background: none repeat scroll 0 0 transparent; color: #868686; font: bold 15px Century Gothic; padding: 0;}
+.footer li a{color:#d8d8d8; font:normal 12px Arial, Helvetica, sans-serif; line-height:19px; background:url(images/footer_dot.png) no-repeat left 6px; padding:0 0 0 10px;}
+
+.footer1 ul.menu{width: 700px;}
+.footer1 ul.menu li{padding-left:100px;}
+.footer1 ul.menu li ul.sub-menu{display:block; position: relative; background-image: none;}
+.footer1 ul.menu li ul.sub-menu li{margin-left:-40px; padding-left:0;}
+.footer1 ul.menu li ul.sub-menu a{background-color:transparent}
+
+.footer2 ul.menu li{float:none}
+.footer2 ul.menu{background-image: none;}
+.footer2 ul.menu li a{float:none}
+
+.footer ul.last{background:none; float:right;}
+.footer ul.last h2 a{background:none; font:bold 15px Century Gothic; color:#868686; padding:0;}
+
+.social_icons{float:right; width:26%;}
+.social_icons ul{background:none; float:right; width:120px; padding:0;}
+.social_icons li{float:right; margin:0 0 0 7px;}
+.social_icons li a{float:left; background:none; padding:0;}
+.social_icons i{float:right; font:bold italic 12px 'Droid Serif'; color:#fff; padding:5px 0 0;}
+
+.no_margin{margin-right:0 !important;}
+.no_border{border:0 !important;}
+.no_bg{background:none !important;}
+/* ======================================== Support Popup Styles ============================================ */
+.support_popup{width:287px; min-height:230px; background:#fff; position:absolute; top:5px; right:0;}
+
+a.signin {
+	position:relative;
+	margin-left:3px;
+}
+#topnav a.menu-open {
+	
+	outline:none;
+}
+
+
+#signin_menu {
+	overflow:hidden;
+	display:none;
+	background-color:#fff;
+	border:1px solid #d1dbe0;
+	position:absolute;
+	width:280px;
+	z-index:500;
+	text-align:left;
+	
+	top:0px; 
+	right: 0px; 
+	margin:0; padding:0;
+}
+#signin_menu h1{font:bold 13px "Century Gothic"; color:#309ed9; padding:5px 20px;}
+#signin_menu form{ padding:5px 20px;}
+#signin_menu label{font:normal 12px "Century Gothic"; color:#444444; padding:5px 0; float:left; width:100%;}
+#signin_menu label span{font:normal 11px Arial, Helvetica, sans-serif; color:#ababab; float:right; padding:2px 0 0;}
+#signin_menu input[type=text], #signin_menu input[type=password] {
+	display:block;
+	float:left;
+	border:0;
+	background:url(images/input.png) no-repeat left top;
+	font:normal 12px "Century Gothic"; color:#444444;
+	margin:0 0 5px;
+	padding:7px 0 9px 5px;
+	line-height:16px;
+	width:240px;
+}
+#signin_menu input.checkbox{float:left; margin:8px 5px 0 0;}
+#signin_menu .remember label{width:auto; font:normal 11px Arial, Helvetica, sans-serif; padding-top:8px;}
+#signin_menu input.submit{float:right; margin:3px 0px 0 0; font:bold 13px "Century Gothic"; cursor:pointer; color:#fff; width:75px; text-align:center; padding:4px 0; line-height:16px; border:0;}
+#signin_menu p.forgot{background:#f1f6f8; font:bold 12px "Century Gothic"; color:#309ed9; width:100%; float:left; padding:0; margin:10px 0 0; line-height:35px; overflow:hidden;}
+#signin_menu p.forgot a{color:#309ed9; float:left; margin-left:20px;}
+
+/* ======================================== Solutions Styles ============================================ */
+.sol_main{z-index:auto;}
+.sol_main img.bus{position:absolute; left:-5px; top:-10px; z-index:11;}
+.sol_main img.solutionImg{position:absolute; left:-25px; top:60px; z-index:11;}
+.sol_main .container{z-index:111;}
+.sol_main .title{float:left; width:280px; padding:10px 0 0 400px;}
+.sol_main .title h1{margin-left:-53px;}
+.title h2{font:normal 21px "Open Sans"; color:#fff; text-shadow:#000 0 0 3px; line-height:22px; margin:18px 0 3px;}
+.sol_main .title p{font:normal 13px "Open Sans"; color:#022c66;  width:325px; padding:0; line-height:17px;}
+
+.decovers{width:192px; min-height:50px; border:1px solid #69b4e1; float:right; margin:30px 0 0; padding:5px 10px 5px;}
+.decovers h1{font:bold 14px "Open Sans"; color:#FFFFFF;}
+.decovers ul{float:left; width:100%; padding:15px 0 0;}
+.decovers li{float:left; width: 100%; background:url(images/plus_text-large.png) no-repeat left 4px; padding:0 0 15px 15px;}
+.decovers li a{font:normal 13px "Open Sans"; color:#ffffff; float:left;}
+
+.S_top_nav{width:100%; background:url(images/nav2_bg.png) no-repeat center top; min-height:34px; position:relative; z-index:1110;}
+.S_top_nav ul{float:left; padding:0 0 0 180px;}
+.S_top_nav li{float:left;}
+.S_top_nav li span{float:left; background:url(images/small_sep.png) no-repeat center; width:1px; height:32px; margin:0 14px;}
+.S_top_nav li a{font:normal 14px "Century Gothic"; color:#fff; float:left; line-height:30px; padding-bottom:4px;}
+.S_top_nav li.active a{font-weight:bold; background:url(images/nav2_hover.png) no-repeat center bottom;}
+.S_top_nav li a:hover{background:url(images/nav2_hover.png) no-repeat center bottom;}
+
+.S_top_nav li ul{float:left; padding:0 0 0 180px;}
+.S_top_nav li li{float:left;}
+.S_top_nav li li span{float:left;}
+.S_top_nav li li a{font:normal 14px "Century Gothic"; color:#fff; float:left; line-height:30px; padding-bottom:4px;}
+.S_top_nav li li.active a{font-weight:bold; background:url(images/nav2_hover.png) no-repeat center bottom;}
+.S_top_nav li li a:hover{background:url(images/nav2_hover.png) no-repeat center bottom;}
+
+.sol_container .main_container{margin-top:-146px; padding-top:15px;  }
+.sol_container .first_row .video{width:655px;}
+.sol_container .first_row .contain{width:655px;}
+.sol_container .first_row .center_content{float:right; margin:2px 15px 0 0;}
+.sol_container .center_content em,.contact_cont .center_content em{font-size:18px; line-height:24px;}
+.sol_container .comment{width:93%;}
+
+.center_text{width:415px; padding:30px 15px 0 0; float:left;}
+.center_text p{font:normal 13px Tahoma, Geneva, sans-serif; color:#545454; line-height:17px; padding-bottom:15px;}
+.center_text p a,.center_text p strong{color:#309ed9; font-weight:bold;} 
+
+.right_box{width:216px; float:left;}
+.row .right_box h1{font-size:16px;}
+.right_box em{width:auto; background:url(images/img_shadow.png) no-repeat center bottom; padding-bottom:3px; float:left;}
+.right_box a.plus{background:url(images/plus.png) no-repeat right center; width:100%; float:left; margin:10px 0 0;}
+
+/* ======================================== TTS Styles ============================================ */
+.tts_main .title{width:435px; padding-left:280px; padding-right:0;}
+.tts_main .title p{width:93%;}
+.tts_main img.bus{left:-205px;}
+.tts_main .decovers{float:right;}
+/* ======================================== Sirev Styles ============================================ */
+.sirev_main img.bus{left:-125px;}
+.sirev_main .title h1{margin-left:-33px;}
+.font_41{font-size:36px !important;}
+.font_35{font-size:31px !important;}
+.font_31{font-size:26px !important; line-height:35px !important;}
+/* ======================================== Technology Styles ============================================ */
+.technology_main{z-index:11;}
+.technology_main .container{background:url(images/technology_banner.png) no-repeat center top; min-height:302px;}
+.technology_main img.bus{left:-70px; top:25px;}
+.technology_main .title{width:495px; float:right;}
+.technology_main .title h1,.tem_main .title h1{margin-left:-33px; text-shadow:#003a75 0 0 6px;}
+.technology_main .title p{width:auto; color:#001838; padding-top:10px;}	
+.font_39{font-size:39px !important;}
+
+.technology_cont .main_container{margin-top:-146px; padding:15px 20px 10px 20px; width:910px; }
+.technology_cont .left,.contact_cont .left{width:211px; min-height:426px; float:left; margin:0 0px 0 0px;}
+.technology_cont .left h1,.technology_cont .right h1,.technology_cont h1{font:bold 14px "Open Sans"; color:#309ed9; padding-bottom:10px;}
+
+.technology_cont .inner_left,.contact_cont .inner_left,.technology_cont .inner_left_T{border:1px solid #6ac2e9; float:left; width:100%; padding:10px 0;}
+.equipe_cont .inner_left_T{border:1px solid #6ac2e9; float:left; width:100%; padding:10px 0;}
+.technology_cont .inner_left,.contact_cont .inner_left,.technology_cont .menu-default-container{border:1px solid #6ac2e9; float:left; width:100%; padding:10px 0;}
+.vertical_dash{width:1px; background:url(images/vertical_dash.png) no-repeat left top; font-size:0; margin:0 10px; height:295px; float:left; vertical-align: top;}
+
+.inner_left_T ul{float:left; width:100%;}
+.inner_left_T li{font:bold 13px "Century Gothic"; color:#309ed9; padding:5px 0; float:left; width:96%; line-height:19px;}
+.inner_left_T li span a{font:bold 13px "Century Gothic"; color:#309ed9; padding:5px 0; float:left; width:96%; line-height:19px;}
+.inner_left_T li span{padding:0 0 0 10px; float:left; width:96%; float:left;}
+.inner_left_T li.active span{background:url(images/left_hover.png) repeat-y left top;}
+.inner_left_T li a{color:#494949; font:normal 13px Tahoma, Geneva, sans-serif;}
+
+.inner_left_T li ul{}
+.inner_left_T li li{padding:0 0 2px 20px;}
+.inner_left_T li li a{background:url(images/small_bullet.png) no-repeat left 7px; padding:0 0 0 10px;}
+.inner_left_T li li:hover,.inner_left li li.active_inner{background:url(images/left_hover.png) repeat-y left top;}
+.inner_left_T li li.active_inner a{font-weight:bold;}
+
+.inner_left ul{float:left; width:100%;}
+.inner_left li{font:bold 13px "Century Gothic"; color:#309ed9; padding:5px 0; float:left; width:91%; line-height:19px;}
+.inner_left li span{padding:0 0 0 10px; float:left; width:96%; float:left;}
+.inner_left li.active span{background:url(images/left_hover.png) repeat-y left top;}
+.inner_left li a{color:#494949; font:normal 13px Tahoma, Geneva, sans-serif;}
+
+.inner_left li ul{}
+.inner_left li{padding:0 0 2px 20px;}
+.inner_left li a{background:url(images/small_bullet.png) no-repeat left 7px; padding:0 0 0 10px;}
+.inner_left li:hover,.inner_left li.active_inner{background:url(images/left_hover.png) repeat-y left top;}
+.inner_left li.active_inner a{font-weight:bold;}
+
+.technology_cont .right{width:670px; min-height:395px; float:left; margin:25px 0px 0 0px;}
+.technology_cont .right ul{float:left; width:560px;}
+.technology_cont .right li{float:left; padding:0 0 4px 18px; width:97%; background:url(images/arrows.png) no-repeat left 4px; font:normal 13px Tahoma, Geneva, sans-serif; color:#545454;}
+
+.T_box{width:100%; float:left; padding:15px 0 20px; background:url(images/dash.png) no-repeat center bottom;}
+.T_box em{background:url(images/box_bg.png) no-repeat left top; width:212px; float:left; text-align:center; margin:20px 20px 0 0; min-height:96px;}
+.T_box em img{margin:-16px 0 0;}
+
+.T_box div{padding-top:17px; float:left; width:425px;}
+.right .T_box  div h1,.support_container .left h1,.support_container .right h1{font:bold 15px "Century Gothic"; color:#309ed9; padding-bottom:7px;}
+.T_box div p,.support_container .left p{color:#545454; font:normal 13px Tahoma, Geneva, sans-serif; line-height:17px;}
+
+/* ======================================== Temoignages Styles ============================================ */
+.temoignage_cont .main_container {
+    margin-top: -110px;
+    padding: 15px 20px 10px;
+    width: 910px;
+    
+}
+
+.tem_main .video{float:left; width:441px; margin:12px 0 0;}
+.tem_main .title{float:right; width:420px; padding:50px 0 0 0;}
+
+.tem_box{width:98%; padding:1%; float:left; border:1px solid #6ac2e9; position:relative; margin:0 0 30px;}
+.tem_box p{font:italic 14px 'Droid Serif'; color:#646363; line-height:19px;}
+.tem_box p img{margin:5px 5px 0 0;}
+.tem_box .name{padding:5px 0 0;}
+/* ======================================== Contact Styles ============================================ */
+.contact_main h1{text-align:center; font:normal 27px "Open Sans"; color:#ffffff; text-shadow:#003a75 0 0 6px; padding:15px 0 10px;}
+.contact_main p{color:#fff; font:normal 13px Tahoma, Geneva, sans-serif; line-height:17px; text-align:center;}
+
+.contact_cont .main_container{margin-top:-240px; }
+.contact_cont .main_container h1{font-size:15px; padding-bottom:10px;}
+.contact_cont .center_content{margin:0 0 0 5px;}
+
+.equipe_cont .main_container{margin-top:-335px; }
+.equipe_cont .main_container h1{font-size:15px; padding-bottom:10px; }
+.equipe_cont .center_content{margin:0 0 0 5px;}
+
+.center_content .address{padding-bottom:25px;}
+.center_content .address h3{font:bold 13px "Century Gothic"; color:#3ea4dc; line-height:20px;}
+.center_content .address h3 strong{color:#494949; font:bold 12px Tahoma, Geneva, sans-serif;}
+.center_content p{color:#494949; font:normal 12px Tahoma, Geneva, sans-serif; line-height:15px; padding:0 0 10px;}
+.center_content p a{color:#3ea4dc; text-decoration:underline; font-size:11px;}
+.center_content a.mail{color:#494949; font:normal 11px Tahoma, Geneva, sans-serif; text-decoration:underline; background:url(images/mail.png) no-repeat left 2px; padding:0 0 3px 21px;}
+
+.map{width:442px; float:left; margin:0 0px 0 0px;}
+.breadcrumb{width:100%; float:left;}
+.breadcrumb li{float:left; padding:0 7px 0 0; font:bold 15px "Century Gothic"; color:#309ed9;}
+.breadcrumb li span{color:#b7b7b7;}
+.breadcrumb li a{color:#b7b7b7; background:url(images/small_arrow.png) no-repeat left 5px; padding:0 0 0 8px;}
+
+.iframe{float:left; width:428px; position:relative;}
+.tab_container{border:7px solid #e2e2e2; float:left; width:428px; margin:10px 0 0; position:relative;}
+.iframe img.shadow{position:absolute; bottom:-15px; left:1px;}
+.iframe iframe{float:left;}
+
+.m_tabs{width:100%; float:left;}
+.m_tabs ul{float:right; margin:0 5px 0 0; width:97%;}
+.m_tabs li{float:right;}
+.m_tabs li a{float:left; font:bold 12px "Century Gothic"; color:#fff; width:90px; text-align:center; background:#b6b6b6; padding:10px 0 7px; margin:-5px 3px 0 0;}
+.m_tabs li.active a,.m_tabs li a:hover{background:#3ea4dc;}
+.m_tabs p{color:#545454; font:normal 13px Tahoma, Geneva, sans-serif; line-height:17px;}
+.m_tabs p a,.m_tabs p strong{color:#309ed9;}
+
+.contact_cont .CR_content{margin-top:25px; margin-left:0;}
+.contact_cont .CR_content p{font-size:11px; color:#494949; line-height:15px;}
+.contact_cont .address{padding:5px 10px 18px;}
+.address a.btm_link,.right_box a.btm_link{font:bold 12px "Century Gothic"; color:#fefefe; position:absolute; bottom:-18px; left:40px; width:108px; text-align:center;
+text-transform:uppercase; text-shadow:#000 0 1px 5px; background:url(images/btn_bg.png) no-repeat left top; padding:9px 10px 10px 0;}
+
+.contact_logo{width:90%; float:left; padding:40px 0 20px 20px;}
+.contact_logo h2,.apercu_container h1{font:bold 19px "Century Gothic"; color:#309ed9;}
+.contact_logo h2 strong{color:#003569; text-transform:uppercase;}
+
+.contact_links{width:90%; float:left;}
+.contact_links ul{float:left; padding:0 0 0 5%;}
+.contact_links li{float:left; width:95%; padding:0 0 7px 5%;}
+/*.contact_links li a{color:#494949; font:normal 11px Tahoma, Geneva, sans-serif; text-decoration:underline;}*/
+.contact_links li a{color:white; font:normal 13.5px "Open Sans" text-decoration:underline;}
+/*.contact_links li span{float:left; color:#3ea4dc; font:bold 12px Tahoma, Geneva, sans-serif; padding:0 6px 0 0;}*/
+
+
+/* ======================================== Apercu Page Styles ============================================ */
+.apercu_main img.bus{top:65px; left:30px;}
+.apercu_main .title{float:right; width:490px; padding:30px 0 0 0;}
+.apercu_main .title p,.support_main .title p{width:80%; padding:18px 0 0;}
+
+.apercu_container .main_container{padding-top:45px; margin-top:-160px; }
+
+.column1{width:216px; float:left; margin:0 15px 0 5px;}
+.column1 em{float:left; margin:16px 0; background:url(images/img_shadow.png) no-repeat center bottom; padding-bottom:3px;}
+.column1 em img{border:7px solid #e2e2e2;}
+
+.column2{width:445px; float:left; margin:0 12px 0 0; background:url(images/dash.png) no-repeat center bottom;}
+
+.apercu_container h1{font-size:15px;}
+.column2 p{color:#545454; font:normal 13px Tahoma, Geneva, sans-serif; line-height:17px; padding:12px 0 0;}
+.column2 p strong{font:bold 15px "Century Gothic"; color:#309ed9;}
+.column2 p a{color:#545454; text-decoration:underline;}
+
+.pdf{width:100%; margin:15px 0 0; background:url(images/dash.png) no-repeat center top; padding:13px 0; float:left;}
+.pdf a{color:#545454; font:normal 12px Tahoma, Geneva, sans-serif; line-height:19px; text-decoration:underline; background:url(images/pdf.png) no-repeat left top; padding:0 0 0 23px; float:left;}
+
+.column3{width:210px; float:left; margin:-25px 0 0;}
+.column3 .box{background:url(images/small_box.png) no-repeat left 15px; width:178px; min-height:81px; margin:0px 0 0 18px;}
+.column3 .box a{font:bold 10px "Century Gothic"; color:#fff; text-shadow:#000 0 0 3px; text-transform:uppercase; background:url(images/enterz_bg.png) no-repeat left top; width:49px;
+text-align:center; float:right; line-height:22px; padding:1px 7px 3px 0px; margin:-15px 10px 0 0;}
+
+.blue_box{width:86%; float:left; background:#3ea4dc; padding:2% 7%; margin:20px 0 15px;}
+.blue_box p{color:#fff; font:normal 12px Tahoma, Geneva, sans-serif; line-height:17px;}
+.blue_box p strong{font:bold 15px "Century Gothic";}
+.blue_box a{color:#fff; font:normal 12px Tahoma, Geneva, sans-serif; line-height:17px; padding:0 0 0 22px; background:url(images/W_mail.png) no-repeat left 3px;}
+
+.text{width:100%; float:left;}
+.text p{color:#545454; font:normal 13px Tahoma, Geneva, sans-serif; line-height:17px;}
+.text p a{color:#309ed9; font:bold 11px Tahoma, Geneva, sans-serif;}
+
+/* ======================================== Support Page Styles ============================================ */
+.support_container .main_container{margin-top:-146px; }
+.support_main .title{width:480px; float:right; padding:70px 60px 0 0;}
+
+.support_container .left{float:left; width:675px;}
+.support_container .left p{padding-bottom:8px;}
+.support_container .left .center_text{width:440px; padding-right:0;}
+.support_container .left .center_text h1 img{float:left; margin:2px 7px 0 0;}
+
+.support_container .right{float:right; width:211px; padding-right:15px;}
+.support_container .right .right_box{position:relative; margin-bottom:30px;}
+.support_container .right .right_box a.btm_link{right:0px; bottom:-15px; left:auto; background:url(images/button_bg.png) no-repeat left top; width:131px; line-height:24px;}
+
+.support_container .right .right_box .address{width:88%;}
+.address a.pdf1{color:#545454; font:normal 13px Tahoma, Geneva, sans-serif; clear:both; white-space:nowrap; float:left; background:url(images/pdf.png) no-repeat left 2px; line-height:18px; padding:1px 0 1px 22px; margin:0 0 5px;}
+
+.plan{width:100%; background:url(images/support_img2.png) no-repeat left top; float:left; min-height:171px;}
+.plan h2{font:normal 28px "Century Gothic"; color:#fff; text-align:center; text-shadow:#000 0 0 3px; padding:6px 0 0;}
+.plan h2 strong{font-size:38px;}
+.plan p{color:#fff; font:normal 12px Tahoma, Geneva, sans-serif; line-height:14px; float:right; width:120px;}
+
+.main_container {
+	/*Coins ronds*/
+	border-radius: 25px 25px 0 0;
+	-moz-border-radius: 25px 25px 0 0;
+	-webkit-border-radius: 25px;
+
+
+	/*Drop Shadows*/
+	box-shadow: #bbbbbb 0px 0px 8px;
+	-moz-box-shadow: #bbbbbb 0px 0px 8px;
+	-webkit-box-shadow: #bbbbbb 0px 0px 8px;
+
+	behavior: url(js/pie/PIE.php);
+	overflow: hidden;
+}
+
+.video div, .right_box em img, .tem_main .video em img, .tab_container {
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	behavior: url(js/pie/PIE.php);
+}
+.comment,.column1 em img,.blue_box {
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	behavior: url(js/pie/PIE.php);
+}
+.information,.column1 em img,.blue_box {
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	behavior: url(js/pie/PIE.php);
+}
+.team em img {
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	behavior: url(js/pie/PIE.php);
+}
+#signin_menu, #signin_menu p.forgot, .m_tabs li a {
+	-webkit-border-radius: 0 0 8px 8px;
+	-moz-border-radius: 0 0 8px 8px;
+	border-radius: 0 0 8px 8px;
+	behavior: url(js/pie/PIE.php);
+}
+#signin_menu input.submit {
+	-webkit-border-radius: 12px;
+	-moz-border-radius: 12px;
+	border-radius: 12px;
+	background: #81D6F7;
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#81D6F7), to(#0d57af));
+	background: -webkit-linear-gradient(#81D6F7, #0d57af);
+	background: -moz-linear-gradient(#81D6F7, #0d57af);
+	background: -ms-linear-gradient(#81D6F7, #0d57af);
+	background: -o-linear-gradient(#81D6F7, #0d57af);
+	background: linear-gradient(#81D6F7, #0d57af);
+	-pie-background: linear-gradient(#81D6F7, #0d57af);
+	behavior: url(js/pie/PIE.php);
+}
+.decovers {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	behavior: url(js/pie/PIE.php);
+}
+.inner_left, .tem_box,.technology_cont .inner_left_T {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	behavior: url(js/pie/PIE.php);
+}
+.equipe_cont .inner_left_T{border-radius: 5px;}
+.inner_left, .tem_box,.technology_cont .menu-default-container {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	behavior: url(js/pie/PIE.php);
+}
+.header {
+*z-index:112;
+}
+.container {
+*z-index:111;
+}
+
+
+ul.menu li {  
+    float: left;  
+    position: relative; /*--Declare X and Y axis base for sub navigation--*/  
+}  
+ul.menu li a{   
+    float: left;  
+}  
+ul.menu li ul.sub-menu {  
+
+    position: absolute; /*--Important - Keeps subnav from affecting main navigation flow--*/  
+    top: 34px; 
+    left: -15px;
+    display: none;
+    padding: 0px;  
+}  
+ul.menu li ul.sub-menu li a{  
+    float: left;  
+    background-color: rgb(27, 75, 156);  
+    padding: 0px;
+    padding-left: 10px; 
+    z-index: 1000;
+     /*width: 122px;  */
+}
+ul.menu li ul span{ background:none; }
+
+#menu-footer1 li{
+    float: left; 
+}
+#menu-footer1 ul{
+    float: none;
+    top:5px;
+}
+#menu-footer1 ul li{
+    margin-left:10px;
+}
+
+/*Tentative de régler le bogue de Safari sur Macbook Air*/
+
+/*.container{overflow: hidden;}*/
+/*.news_container {overflow: hidden;}
+.main {overflow: hidden;}
+.sol_main {overflow: hidden;}
+.row {overflow: hidden;}
+.page .main .main_container {overflow: hidden;}
+.technology_cont .main_container {overflow: hidden;}
+.main_container {overflow: hidden}*/

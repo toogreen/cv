@@ -1,0 +1,48 @@
+<HTML>
+<HEAD>
+<TITLE>Shockwave</TITLE>
+</HEAD>
+<BODY bgcolor="#000000">
+
+<!-- Aftershock index.swf 3=100 4=100 2=1 37=0 18 24=3 -->
+<!-- URL's used in the movie-->
+<A HREF=page1.html></A> <A HREF=page2.html></A> <A HREF=page3.html></A> <A HREF=page4.html></A> <A HREF=page5.html></A> <A HREF=page6.html></A> <A HREF=page62.html></A> <A HREF=page7.html></A> <A HREF=3d1.html></A> <A HREF=divers.html></A> <A HREF=../accueil.htm></A> 
+<MAP NAME="indexMap">
+<AREA COORDS="396,157,625,179" HREF="page1.html">
+<AREA COORDS="396,184,625,206" HREF="page2.html">
+<AREA COORDS="396,212,625,234" HREF="page3.html">
+<AREA COORDS="396,240,625,262" HREF="page4.html">
+<AREA COORDS="396,268,625,290" HREF="page5.html">
+<AREA COORDS="396,295,625,317" HREF="page6.html">
+<AREA COORDS="395,323,625,345" HREF="page62.html">
+<AREA COORDS="396,351,625,373" HREF="page7.html">
+<AREA COORDS="396,379,625,401" HREF="3d1.html">
+<AREA COORDS="396,408,625,430" HREF="divers.html">
+</MAP>
+<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=3,0,0,0"
+ ID=index WIDTH=100% HEIGHT=100%>
+  <PARAM NAME=movie VALUE="index.swf"> 
+  <PARAM NAME=loop VALUE=false> 
+  <PARAM NAME=quality VALUE=high> 
+  <PARAM NAME=bgcolor VALUE=#000000> 
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+var ShockMode = 0;
+if (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"] && navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin) {
+	if (navigator.plugins && navigator.plugins["Shockwave Flash"])
+		ShockMode = 1;
+}
+if ( ShockMode ) {
+	document.write('<EMBED SRC="index.swf"');
+	document.write(' swLiveConnect=FALSE WIDTH=100% HEIGHT=100%');
+	document.write(' LOOP=false QUALITY=high BGCOLOR=#000000');
+	document.write(' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">');
+	document.write('</EMBED>');
+} else if (!(navigator.appName && navigator.appName.indexOf("Netscape")>=0 && navigator.appVersion.indexOf("2.")>=0)){
+	document.write('<IMG SRC="index.gif" WIDTH=640 HEIGHT=480 BORDER=0 USEMAP="#indexMap">');
+}
+//-->
+</SCRIPT><NOEMBED><IMG SRC="index.gif" WIDTH=640 HEIGHT=480 BORDER=0 USEMAP="#indexMap"></NOEMBED><NOSCRIPT><IMG SRC="index.gif" WIDTH=640 HEIGHT=480 BORDER=0 USEMAP="#indexMap"></NOSCRIPT></OBJECT><!-- EndAftershock index.swf -->
+</BODY>
+</HTML>
